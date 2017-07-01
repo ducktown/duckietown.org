@@ -21,3 +21,7 @@ fjs.parentNode.insertBefore(js, fjs);
 <iframe class="embed-responsive-item" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fduckietown&tabs=timeline&width=2000&height=2000&small_header=false&adapt_container_width=false&hide_cover=false&show_facepile=false&appId"   scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
 </div>
+
+
+
+<p> Stay in touch with Duckietown <a href="http://goo.gl/forms/OxZu85WGi7">by signing up on our mailing list</a>.</p>

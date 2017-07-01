@@ -1,26 +1,31 @@
+{% include base.html %}
 <!DOCTYPE html>
 <html>
 
   {% include head.html %}
 
   <link href='https://fonts.googleapis.com/css?family=Lobster+Two' rel='stylesheet' type='text/css'>
-  
+
   <body>
-    
+
     <div class="container-fluid">
         <div class="row-fluid">
             <div class="navbar col-md-2 no-float text-right">
-                <img style='max-width: 200px ; width:80%' src='media/duckie2.png'/>
-                {% include nav.html %}  
+                <img style='max-width: 200px ; width:80%' src='{{base}}/media/duckie2.png'/>
+                {% include nav.html %}
             </div>
 
             <div class="col-md-9 no-float middle">
-                {% if page.title != 'Home22' %} 
-                    <h1 >{{ page.title }}</h1>
+                {% if page.longtitle  %}
+                    <h1 >{{ page.longtitle }}</h1>
                 {% else %}
 
-                {% endif %}
+                    {% if page.title != 'Home22' %}
+                        <h1 >{{ page.title }}</h1>
+                    {% else %}
 
+                    {% endif %}
+                {% endif %}
                 {{ content }}
             </div>
         </div>

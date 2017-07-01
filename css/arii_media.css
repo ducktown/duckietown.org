@@ -4,22 +4,51 @@
  * Licensed under Apache 2.0 (https://github.com/IronSummitMedia/startbootstrap/blob/gh-pages/LICENSE)
  */
 
-h1 { 
-    font-size: 340%; 
-    text-align: center; 
-    text-shadow: 2px 2px black;
-    font-family: 'Lobster Two', cursive;  
-    color: #aa6300; 
+div.nav-primary >ul {
+    display: block;
+    min-height: 300px;
 }
 
-h2 { 
-    color: #aa6300; 
-    font-family: 'Lobster Two', cursive;  
+div.nav-primary > ul {
+
+    width: 100%;
+}
+div.nav-primary ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+   background-color: grey;
+   padding-left: 1em;
+}
+div.nav-primary li {
+    padding: 2px;
+}
+
+ul li.selected:before {
+ 		 /*content: "\00BB";*/
+     }
+li.selected {
+         font-weight: bold;
+         list-style: none;
+}
+
+
+h1 {
+    font-size: 340%;
+    text-align: center;
+    text-shadow: 2px 2px black;
+    font-family: 'Lobster Two', cursive;
+    color: #aa6300;
+}
+
+h2 {
+    color: #aa6300;
+    font-family: 'Lobster Two', cursive;
     }
 
-h3 { 
-    color: #aa6300; 
-    font-family: 'Lobster Two', cursive;  
+h3 {
+    color: #aa6300;
+    font-family: 'Lobster Two', cursive;
     font-size:150%;
     }
 
@@ -32,19 +61,19 @@ h3 {
 .black {
     color: #000000;
 }
-.fb, 
+.fb,
 .fb span,
 html#facebook.svg,
-.fb iframe { 
-        width: 100% !important; 
+.fb iframe {
+        width: 100% !important;
         margin-left: auto;
         margin-right:auto;
     }
-
+/*
 li a {
-    font-family: monospace; 
+    font-family: monospace;
     font-weight: bolder
-}
+}*/
 
 .boo{
     width: 5000px;
@@ -208,4 +237,3 @@ li a {
     font-size: 36px;
   }
 }
-

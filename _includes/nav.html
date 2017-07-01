@@ -10,7 +10,7 @@
 
 
  <div  class="nav-primary" role="navigation" >
-        {% for p in site.pages %}
+        <!--{% for p in site.pages %}
           {% if p.title %}
 
           {% if p.url != page.url %}
@@ -22,7 +22,9 @@
           {% endif %}
           <br/>
           {% endif %}
-        {% endfor %}
+        {% endfor %}-->
+        {% include automenu url='/' sort="order" reverse=false all=false %}
+
 
 
         <br/><br/>
