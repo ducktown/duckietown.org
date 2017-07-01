@@ -1,45 +1,15 @@
 
-Dynamic regeneration based on YAML files
-----------------------------------------
+# duckietown.org website
 
-Linux:
+## To publish the website
 
-	sudo apt-get install python-dateutil 
-	sudo apt-get install pdftk
-
-OS X:
-
-	sudo pip install dateutil
-
-	install pdftk manually
-
-Both:
-	sudo pip install SystemCmd==1.3 
-	sudo pip install PyContracts
+Just edit and commit. The `master` branch will be published to `duckietown.org`.
 
 
-Then this rebuilds everything:
+## To preview the website on your computer
 
-	make -B
+Install Jekyll.
 
+Then run:
 
-Install required software for running on localhost
---------------------------------------------------
-
-Install ruby 2.0:
-
-	http://blog.costan.us/2014/04/restoring-ruby-20-on-ubuntu-1404.html
-
-
-Install:
-
-	sudo apt-get -y install bundler
-	bundle install
-
-
-Exec:
-
-	bundle exec jekyll serve --host=0.0.0.0 --watch . 
-
-Then open a web browser at http://127.0.0.1:8888.
-
+	$ jekyll serve
