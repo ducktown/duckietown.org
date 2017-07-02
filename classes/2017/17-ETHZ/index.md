@@ -2,7 +2,7 @@
 layout: page
 title: ETH Zurich
 longtitle: "Autonomous Mobility on Demand: from car to fleet "
-permalink: classes/2017/17-ETHZ-AMOD/index.html
+permalink: classes/2017/17-ETHZ/index.html
 ---
 
 
