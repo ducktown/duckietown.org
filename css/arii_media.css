@@ -10,24 +10,26 @@ div.nav-primary >ul {
 }
 
 div.nav-primary > ul {
-
     width: 100%;
 }
 div.nav-primary ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-   background-color: grey;
+   /*background-color: grey;*/
    padding-left: 1em;
 }
 div.nav-primary li {
     padding: 2px;
+    font-weight: bold;
+    font-size: 1.4rem;
 }
 
-ul li.selected:before {
- 		 /*content: "\00BB";*/
-     }
+li.open {
+    /*color: red !important;*/
+}
 li.selected {
+    background-color: #fcf8e3;
          font-weight: bold;
          list-style: none;
 }
