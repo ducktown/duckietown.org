@@ -5,10 +5,14 @@ longtitle: "Autonomous Mobility on Demand "
 permalink: classes/2017/17-ETHZ/index.html
 ---
 
-Welcome to the webpage for the class **Autonomous Mobility on Demand (AMOD): from car to fleet**.
+Welcome to the webpage for the class **Autonomous Mobility on Demand (AMOD): from car to fleet** (catalogue number [151-0323-00L][official]).
+
+[official]: http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheitPre.do?semkez=2017W&ansicht=EINSCHRAENKUNGEN&lerneinheitId=119019&lang=en
 
 This class is a new offering at ETH Z&uuml;rich for Fall 2017
-in the context of the [Master of Science in Robotics, Systems and Control][master] in the [Department of Mechanical and Process Engineering (D-MAVT)][mavt].
+in the context of the [Master of Science in Robotics, Systems and Control][master]
+and the Master in Mechanical engineering
+in the [Department of Mechanical and Process Engineering (D-MAVT)][mavt].
 
 This class follows
 the [extremely succesfull first edition at MIT in 2016](/classes/2016/16-MIT/index.html).
@@ -45,9 +49,24 @@ in this, please contact [Andrea Censi][censi].
 
 ## Dates and times
 
-(To write.)
+This is a 4 credits class.
 
+Lecture times:
 
+<table id='times'>
+<thead>
+    <tr><td>day</td><td>times</td><td>room</td></tr>
+    </thead>
+    <tbody>
+    <tr><td>Monday</td>	<td>13-15</td>	<td>HG E 33.5</td></tr>
+    <tr><td>Wednesday</td><td>10-12</td> <td>HG D 3.3</td></tr>
+    </tbody>
+</table>
+
+<style>
+#times thead { font-weight: bold; }
+#times tbody td { padding-right: 1em; padding-top:0.2em;}
+</style>
 
 ## Instructors
 
@@ -78,14 +97,10 @@ contact [Andrea Censi][censi] if you are interested.*
 
 ## Grading
 
-The grade depends on:
+The grade is based on (1) the realization of a project (40%); (2) a project report (40%); (3) a project presentation (20%). The projects will be group based, but the contribution of each student will be assessed individually.
 
-* a project;
-* a project presentation;
-* a project report.
 
-The project is in groups, but we will evaluate
-the contribution of each individual in the group separately.
+
 
 
 ## Prerequisites
@@ -119,16 +134,6 @@ in EdX.
 
 # What makes this a special class {#special}
 
-### Collaboration/competition with twin institutions
-
-This class is offered at the same time at two others institutions:
-
-- At the University of Montreal, Canada, lead by Prof. Liam Paull.
-- At the University of Chicago / Toyota Technological Institute, led by Prof. Matthew Walter.
-
-The three institutions will develop the autonomous fleets together, and there will be
-a (very friendly) competition at the end.
-
 
 ## Class philosophy
 
@@ -150,6 +155,18 @@ refer to this paper:
     <span class="links"><span class="pdf"><a href="http://people.csail.mit.edu/lpaull/publications/Tani_EDU_2016.pdf">
     <img style='border:0; margin-bottom:-6px; width:17px; height: 17px' src='/media/pdf.png'/> pdf</a></span></span>
 </cite>
+
+
+### Collaboration/competition with twin institutions
+
+This class is offered at the same time at two others institutions:
+
+- At the University of Montreal, Canada, lead by Prof. Liam Paull.
+- At the University of Chicago / Toyota Technological Institute, led by Prof. Matthew Walter.
+
+The three institutions will develop the autonomous fleets together, and there will be
+a (very friendly) competition at the end.
+
 
 <!-- ### Broader impact beyond ETH Zurich
 
