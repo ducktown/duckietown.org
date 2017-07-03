@@ -123,7 +123,7 @@ it makes sense to take AMR as either a follow-up to AMOD
 or before AMOD.  Note also that AMR is already available
 in EdX.
 
-- Prof. [Scaramuzza][scaramuzza] [Computer Vision][scaramuzza-class] class. This class is in the first semester, and it is a great complement to this one.
+- Prof. [Scaramuzza][scaramuzza]'s [Computer Vision][scaramuzza-class] class. This class is in the first semester, and it is a great complement to this one.
 
 [siegwart]: http://www.asl.ethz.ch
 [scaramuzza]: http://rpg.ifi.uzh.ch
