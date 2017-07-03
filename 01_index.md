@@ -22,9 +22,8 @@ of education.
 <p class='more-information'>For more information, see the <a href="http://book.duckietown.org/master/duckiebook/what_is_duckietown.html#sec:what-is-duckietown">section <em>What is Duckietown?</em></a> in the Duckietown book.</p>
 
 
-
-<div class='figure-with-caption'>
-
-    <img src="/media/classes/duckietown-taiwan.jpg"/>
-    <p>Duckietown at NCTU in 2016</p>
+<div style='text-align: left'>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/-TwocCeJUe8" frameborder="0" allowfullscreen>
+        <!-- -->
+    </iframe>
 </div>

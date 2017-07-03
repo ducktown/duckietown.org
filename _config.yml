@@ -1,1 +1,5 @@
 github_username: duckietown
+exclude:
+  - CNAME
+  - README.md
+  - "*.head"

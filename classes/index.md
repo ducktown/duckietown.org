@@ -18,3 +18,9 @@ classes that used the Duckietown materials.
 - [University of Montreal, 2017](2017/17-Montreal/)
 - [ETH Zurich 2017](2017/17-ETHZ/)
 - [TTI/Chicago 2017](2017/17-TTI-Chicago/)
+
+
+<div class='figure-with-caption'>
+    <img src="/media/classes/duckietown-taiwan.jpg"/>
+    <p>Duckietown at NCTU in 2016</p>
+</div>

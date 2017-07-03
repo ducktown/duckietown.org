@@ -1,0 +1,420 @@
+# Use this pattern:
+# - id: <identifier string with underscores>
+#   institution: <name of institution> (NB: this should be the top search result in google maps)
+#   title: <title or article/class/etc>
+#   collaborators: [list]
+#   tags: [list, of, tags]
+#   desc: |
+#     <Multiple line description of the project>
+#   score: 10
+#   year: 2016
+#   project_url: <project url>
+#   institution_url: <institution_url>
+#   active: True # should it be included in the list or just appear on the map
+#
+# Tags conventions:
+# - "research": a paper was written with duckietown
+# - "graduate": a graduate level class
+# - "undergraduate": an undergraduate class
+# - "high school": a high school class
+# - "elementary school": an elementary class
+# - "independent": an independent learner
+# - "media": a media piece written about duckietown
+- id: MIT
+  institution: Massachusetts Institute of Technology
+  lat: 42.3600821
+  lon: -71.094279
+  title: MIT 2.166
+  tags: [graduate]
+  desc: |
+    Where it all started! The first Duckietown class was at MIT in 2016
+  score: 1000
+  year: 2016
+  project_url: http://duckietown.mit.edu/
+  institution_url: http://web.mit.edu
+  active: True
+
+
+- id: NCTU
+  institution: National Chiao Tung University
+  placeid: ChIJsxeFWg42aDQRzt14w4EXVWY
+  lat: 24.7859456
+  lon: 120.996622
+  title: ICN9005 Robotic Vision
+  tags: [graduate]
+  desc: |
+    The "first branch of Duckietown" was started in 2016 in NCTU led by Prof Nick Wang
+  score: 5
+  year: 2016
+  project_url: http://duckietown.nctu.edu.tw/
+  institution_url: http://www.nctu.edu.tw/en
+  active: True
+
+- id: jetbrains
+  institution: JetBrains Research
+  placeid:
+  lat: 59.980699
+  lon: 30.324098
+  title: Independent study led by Kirill Krinkin
+  tags: [independent]
+  desc:
+  score: 5
+  year: 2017
+  project_url: https://research.jetbrains.org/duckietown
+  institution_url: https://research.jetbrains.org/duckietown
+  active: True
+
+
+- id: Rutgers
+  institution: Rutgers University
+  placeid: ChIJvwa-GFXGw4kRSK96kWYgtFE
+  lat: 40.4982514
+  lon: -74.4469309
+  title: Robotics Summer Workshop
+  tags: [undergraduate]
+  desc: |
+    Prof. Jingjin Yu and Prof. Qingze Zou at Rutgers led a summer workshop based on Duckietown. The focus was on comparing the differences in the classroom environment between China and the United States. Here is a  <a href="https://www.youtube.com/watch?v=I4NudbNBUHI">video</a>.
+  score: 4
+  year: 2016
+  project_url: http://soe.rutgers.edu/story/robotics-workshop-brings-international-students-rutgers
+  institution_url: http://www.rutgers.edu/
+  active: True
+
+- id: Tsinghua
+  institution: Tsinghua University
+  title:
+  tags: [undergraduate]
+  desc: |
+  lat: 39.9997172
+  lon: 116.3263141
+  score: 4
+  year: 2016
+  project_url:
+  institution_url: http://www.tsinghua.edu.cn/publish/newthuen/
+  active: True
+
+- id: Chile
+  institution: University of Chile
+  title: Facultad de Ciencias Fisicas Y Matematicas
+  tags: [undergraduate]
+  desc: |
+  lat: -33.4445765
+  lon: -70.6514703
+  score: 4
+  year: 2017
+  project_url: https://www.facebook.com/duckietowncl/
+  institution_url: http://www.uchile.cl/
+  active: True
+
+
+- id: CTU
+  institution: Czech Technical University in Prague
+  title:
+  tags: [undergraduate]
+  desc: |
+  score: 4
+  lat: 50.1030359
+  lon: 14.3911497
+  year: 2016
+  project_url:
+  institution_url: https://www.cvut.cz/en
+  active: True
+
+- id: RPI
+  institution: Rensselaer Polytechnic Institute
+  title:
+  tags: [undergraduate]
+  desc: |
+    The Duckietown platform was used by students in Prof. John Wen&apos;s undergraduate class. Here is a <a href="https://www.youtube.com/playlist?list=PL3qku09D5UsDIiNOpI6NKZgdSNQlhaMKm">video</a> of some of their results.
+  lat: 42.7301779
+  lon: -73.678931
+  score: 4
+  year: 2016
+  project_url:
+  institution_url: https://rpi.edu/
+  active: True
+
+
+- id: Utrecht
+  institution: Permanent Future Lab Utrecht
+  title:
+  tags: [undergraduate]
+  desc: |
+  score: 4
+  lat: 52.0891353
+  lon: 5.1132371
+  year: 2017
+  project_url:
+  institution_url: https://permanentfuturelab.wiki/wiki/Seats2meet.com_Utrecht_CS
+  active: True
+
+
+- id: TTIC
+  institution: Toyota Technological Institute at Chicago
+  title: Matthew Walter&apos;s graduate class at TTIC
+  tags: [graduate]
+  desc: |
+  lat: 41.7847517
+  lon: -87.5927179
+  score: 4
+  year: 2017
+  project_url:
+  institution_url: http://www.ttic.edu/
+  active: True
+
+
+- id: UdM
+  institution: Universite de Montreal
+  title: Graduate class taught by Paull at U de M
+  tags: [graduate]
+  desc: |
+  lat: 45.5059042
+  lon: -73.6137935
+  score: 4
+  year: 2017
+  project_url:
+  institution_url: http://www.umontreal.ca/en/
+  active: True
+
+
+- id: ETHZ
+  institution: ETH Zurich
+  title: Frazzoli and Censi&apos;s graduate class at ETH Zurich
+  tags: [graduate]
+  lat: 47.3763661
+  lon: 8.5475314
+  desc: |
+  score: 2
+  year: 2017
+  project_url:
+  institution_url: https://www.ethz.ch
+  active: True
+
+- id: PJV
+  institution: University of Picardie Jules Verne
+  title:
+  tags: [graduate]
+  desc: |
+  lat: 49.8764014
+  lon: 2.2636706
+  score: 4
+  year: 2017
+  project_url:
+  institution_url: https://www.u-picardie.fr/
+  active: True
+
+
+- id: Carpin
+  institution: University of California, Merced
+  title:
+  tags: [research]
+  desc: |
+  lat: 37.3640733
+  lon: -120.430203
+  score: 4
+  year: 2016
+  project_url: http://faculty.ucmerced.edu/scarpin
+  institution_url: http://www.ucmerced.edu/
+  active: False
+
+
+- id: Marcianise
+  institution: ISIS Ferraris-Buccini Marcianise
+  title: Perlatecnica
+  lat: 41.0297231
+  lon: 14.2629628
+  tags: [high school]
+  desc: |
+    Class  led by Mr. Mauro D&apos;Angelo. The code for the high school class is available at <a href="https://github.com/duckietown/duckietown-hs">Duckietown HS Github page</a>.
+  score: 4
+  year: 2016
+  project_url: http://www.perlatecnica.it/
+  institution_url: http://www.isismarcianise.gov.it/
+  active: False
+
+
+
+- id: Fermi
+  institution: ITI E.Fermi Via Merine, 5, 73100 Lecce LE
+  title: Perlatecnica
+  lat: 40.3474439
+  lon: 18.185861
+  tags: [high school]
+  desc: |
+    Class  led by Mr. Mauro D&apos;Angelo. The code for the high school class is available at <a href="https://github.com/duckietown/duckietown-hs">Duckietown HS Github page</a>.
+  score: 4
+  year: 2016
+  project_url: http://www.perlatecnica.it/
+  institution_url:
+  active: False
+
+
+- id: Baronissi
+  institution: Istituto d&apos;istruzione superiore Baronissi
+  title: Perlatecnica
+  lat: 40.7367067
+  lon: 14.7638728
+  tags: [high school]
+  desc: |
+    Class led by Mauro D&apos;Angelo. The code for the high school class is available at <a href="https://github.com/duckietown/duckietown-hs">Duckietown HS Github page</a>.
+  score: 4
+  year: 2016
+  project_url: http://www.perlatecnica.it/
+  institution_url:
+  active: False
+
+- id: dambrox
+  institution: Associazione Dambros
+  title: Perlatecnica
+  lat: 40.7966615
+  lon: 14.6005244
+  tags: [high school]
+  desc: |
+    Class led by Mauro D&apos;Angelo. The code for the high school class is available at <a href="https://github.com/duckietown/duckietown-hs">Duckietown HS Github page</a>.
+  score: 4
+  year: 2017
+  project_url: http://www.perlatecnica.it/
+  institution_url:
+  active: False
+
+
+- id: ITI_dalla_chiesa_afragola
+  institution:  ITI Dalla Chiesa Afragola - Via Sicilia 60 80021 Afragola
+  title: Perlatecnica
+  lat: 40.9302848
+  lon: 14.3084543
+  tags: [high school]
+  desc: |
+    Class led by Mauro D&apos;Angelo. The code for the high school class is available at <a href="https://github.com/duckietown/duckietown-hs">Duckietown HS Github page</a>.
+  score: 4
+  year: 2016
+  project_url: http://www.perlatecnica.it/
+  institution_url:
+  active: False
+
+- id: liceo_statale_gandhi
+  institution: Liceo Statale Gandhi - Via Aldo Moro 26 80026 Casoria (NA)
+  title: Perlatecnica
+  lat: 40.8997852
+  lon: 14.2823574
+  tags: [high school]
+  desc: |
+    Class  led by Mr. Mauro D&apos;Angelo. The code for the high school class is available at <a href="https://github.com/duckietown/duckietown-hs">Duckietown HS Github page</a>.
+  score: 4
+  year: 2016
+  project_url: http://www.perlatecnica.it/
+  institution_url:
+  active: False
+
+- id: ITI_enrico_medi
+  institution: ITI Enrico Medi Via Buongiovanni 84  80046 - San Giorgio a Cremano (NA)
+  title: Perlatecnica
+  lat: 40.8405069
+  lon: 14.3437418
+  tags: [high school]
+  desc: |
+    Class  led by Mr. Mauro D&apos;Angelo. The code for the high school class is available at <a href="https://github.com/duckietown/duckietown-hs">Duckietown HS Github page</a>.
+  score: 4
+  year: 2016
+  project_url: http://www.perlatecnica.it/
+  institution_url:
+  active: False
+
+- id: villagio_dei_ragazzi
+  institution: Villaggio dei ragazzi Maddaloni
+  title: Perlatecnica
+  lat: 41.0396394
+  lon: 14.3811652
+  tags: [high school]
+  desc: |
+    Class by Mr. Mauro D&apos;Angelo. The code for the high school class is available at <a href="https://github.com/duckietown/duckietown-hs">Duckietown HS Github page</a>.
+  score: 4
+  year: 2016
+  project_url: http://www.perlatecnica.it/
+  institution_url:
+  active: False
+
+- id: salvatore_citelli
+  institution: Istituto Tecnico Salvatore Citelli via Palermo, 78 - 94017 Regalbuto
+  title: Perlatecnica
+  lat: 37.6489001
+  lon: 14.6353775
+  tags: [high school]
+  desc: |
+    Class  led by Mr. Mauro D&apos;Angelo. The code for the high school class is available at <a href="https://github.com/duckietown/duckietown-hs">Duckietown HS Github page</a>.
+  score: 4
+  year: 2016
+  project_url: http://www.perlatecnica.it/
+  institution_url:
+  active: False
+
+- id: federico_ii
+  institution: Universita Federico II - Via Claudio, 21, 80125 Napoli (NA)
+  title: Perlatecnica
+  lat: 40.8370023
+  lon: 14.1890243
+  tags: [high school]
+  desc: |
+    Class  led by Mr. Mauro D&apos;Angelo. The code for the high school class is available at <a href="https://github.com/duckietown/duckietown-hs">Duckietown HS Github page</a>.
+  score: 4
+  year: 2016
+  project_url: http://www.perlatecnica.it/
+  institution_url:
+  active: False
+
+- id: Liceo
+  institution: Liceo scientifico Gandhi Casoria
+  title: Perlatecnica
+  lat: 40.8997852
+  lon: 14.2823681
+  tags: [high school]
+  desc: |
+    Class  led by Mr. Mauro D&apos;Angelo. The code for the high school class is available at <a href="https://github.com/duckietown/duckietown-hs">Duckietown HS Github page</a>.
+  score: 4
+  year: 2016
+  project_url: http://www.perlatecnica.it/
+  institution_url: http://www.liceogandhi.gov.it/
+  active: False
+
+- id: Peck
+  institution: The Peck School
+  title: Bruce Schwartz&apos;s 5th grade class are building their own robots based on the Duckiebot design
+  lat: 40.7869585
+  lon: -74.4730327
+  tags: [elementary school]
+  desc: |
+    The 5th graders are designing their own robots
+  score: 4
+  year: 2016
+  project_url:
+  institution_url: http://www.peckschool.org/page
+  active: False
+
+
+- id: Unina
+  institution: Ingegneria Elettronica Napoli
+  title: Perlatecnica
+  lat: 40.8369917
+  lon: 14.1888526
+  tags: [high school]
+  desc: |
+    Class  led by Mr. Mauro D&apos;Angelo. The code for the high school class is available at <a href="https://github.com/duckietown/duckietown-hs">Duckietown HS Github page</a>.
+  score: 4
+  year: 2016
+  project_url: http://www.perlatecnica.it/
+  institution_url:
+  active: False
+
+- id: Lee
+  institution: Roeper School in Birmingham
+  title: Independent project
+  tags: [independent]
+  lat: 42.5930521
+  lon: -83.2546762
+  desc: |
+    Nathaniel Lee is a senior at the Roeper School in Birmingham, MI and is taking the Duckietown course as an independent study.
+  score: 4
+  year: 2016
+  project_url:
+  institution_url: https://www.roeper.org/
+  active: False
