@@ -4,19 +4,34 @@ title: Help us
 permalink: help.html
 ---
 
-Duckietown is still in its infancy, and we have
-a long way to go; we are happy if you could help.
+The Duckietown project is still in its infancy, and we have
+a long way to go; we are happy to get all the help
+we can get.
 
-In particular, we are looking for:
 
-- community managers (handling our Facebook page, mailing lists)
-- web developers
-- testers
-- software developers
+### Individuals
 
-If you would like to help in these matters, please [contact us](contact).
+In particular, we are looking for volunteers who
+could be:
 
-We are also looking for partner companies who would like to:
+- **community managers**, who can handle our Facebook page, mailing lists, Vimeo/Youtube, and similar ways to communicate;
+- **web developers**, to make this and other pages prettier;
+- **software developers** and **testers**;
+- **translators** for translating the documentation
+  to other languages;
+- **legal counsel**, to help us drafting collaboration contracts with companies.
 
-- help us package the robot
-- help
+If you would like to help in any of this, please [contact us](contact).
+
+### Partners
+
+We are looking for partner companies who would like to
+help us make Duckietown into a product that is broadly
+distributed.
+
+Please [get in touch with us](contact) if you are interested.
+
+
+### Sponsors
+
+We are looking for sponsors. Please [get in touch with us](contact).

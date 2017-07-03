@@ -4,6 +4,57 @@
  * Licensed under Apache 2.0 (https://github.com/IronSummitMedia/startbootstrap/blob/gh-pages/LICENSE)
  */
 
+div.figure-with-caption {
+
+}
+div.figure-with-caption p {
+    font-style: italic;
+}
+
+ body {
+     font-family: Cambria, serif;
+     font-size: 18px;
+ }
+
+ .icon--github svg {
+     width: 1em;
+ }
+
+footer p {
+    margin-left: 2em;
+}
+
+p.more-information {
+    padding-left: 3em;
+    font-style: italic;
+}
+p.more-information:before {
+
+    content: "➜";
+    float: left;
+    width: 2em;
+    margin:0;
+    margin-left: -2em;
+    padding-right: 0.3em;
+
+
+    display: inline-block;
+    text-align: right;
+    /*margin-right: 2em;
+    */
+
+}
+#duckietown-logo-wrapper {
+    display: block;
+    text-align: center;
+}
+
+#duckietown-logo {
+    width: 10em;
+    max-width: 100%;
+    margin-top: 1.3em;
+}
+
 div.nav-primary >ul {
     display: block;
     min-height: 300px;
@@ -36,21 +87,32 @@ li.selected {
 
 
 h1 {
-    font-size: 340%;
-    text-align: center;
-    text-shadow: 2px 2px black;
-    font-family: 'Lobster Two', cursive;
+    font-size: 240%;
+    font-weight: bold;
+    /*text-align: center;*/
+    /*text-shadow: 2px 2px black;*/
+
     color: #aa6300;
+}
+
+.navbar p {
+    max-width: 14em;
+}
+
+#page-content p {
+    max-width: 30em;
+}
+
+h1, h2, h3 {
+    font-family: Garamond, 'Lobster Two', cursive;
 }
 
 h2 {
     color: #aa6300;
-    font-family: 'Lobster Two', cursive;
     }
 
 h3 {
     color: #aa6300;
-    font-family: 'Lobster Two', cursive;
     font-size:150%;
     }
 
@@ -216,7 +278,7 @@ li a {
   font-size: 24px;
   line-height: 1.1;
   display: block;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  /*font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
   font-weight: 300;
   margin: 10px 0 0;
 }
