@@ -5,13 +5,14 @@ longtitle: "Autonomous Mobility on Demand "
 permalink: classes/2017/17-ETHZ/index.html
 ---
 
-Welcome to the webpage for the class **Autonomous Mobility on Demand (AMOD): from car to fleet** (catalogue number [151-0323-00L][official]).
+Welcome to the webpage for the class **Autonomous Mobility on Demand (AMOD): from car to fleet** (catalogue number [151-0323-00L][official]), which is
+informally known as "Duckietown".
 
 [official]: http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheitPre.do?semkez=2017W&ansicht=EINSCHRAENKUNGEN&lerneinheitId=119019&lang=en
 
-This class is a new offering at ETH Z&uuml;rich for Fall 2017
+This class is a new offering at ETH Zürich for Fall 2017
 in the context of the [Master of Science in Robotics, Systems and Control][master]
-and the Master in Mechanical engineering
+and the [Master in Mechanical Engineering][master-meche]
 in the [Department of Mechanical and Process Engineering (D-MAVT)][mavt].
 
 This class follows
@@ -19,29 +20,43 @@ the [extremely succesfull first edition at MIT in 2016](/classes/2016/16-MIT/ind
 
 [master]: http://www.master-robotics.ethz.ch/
 [mavt]: http://mavt.ethz.ch
+[master-meche]: http://www.master-mechanical-engineering.ethz.ch/
+
+[Read below about what makes this a special class](#special).
 
 
-[See below what makes this a special class](#special).
+**For ETH Zürich Students**:
+Note that there is only a limited number of spots available,
+because of resource constraints (e.g. each student gets a robot).
 
-## Action items
+Please read this page thoroughly and sign up *only* if you
+think the class is right for you. It might help to take a
+look at the materials for the first edition of the class, at
+the site [duckietown.mit.edu](http://duckietown.mit.edu).
 
-**For ETH Z&uuml;rich Students**:
-Note that there is only a limited number of spots available.
-Please read this page thoroughly and sign up *only* if you think the class is right for you.
-It might help to take a look at the materials for the
-first edition of the class, at the site [duckietown.mit.edu](http://duckietown.mit.edu).
-Even though the material will be different, we will have the same style.
+**Please come back later in the summer to this page, as
+we will prepare a questionnaire for you
+which helps us fine-tuning the class to your background.**
 
-<!--
-Jacopo: this is the time if you want to do it.
 
-Please also [fill in this questionnaire][questionnaire],
-which helps us fine-tuning the class to your background. -->
+## Positions available
 
-**For ETH Z&uuml;rich postdocs and researchers**: At MIT one of the collateral
-uses of Duckietown was to provide an opportunity for postdoc
-to develop their teaching skills. If you are interested
-in this, please contact [Andrea Censi][censi].
+**For ETH Zürich Master Students**: We have available positions for:
+
+* [TAs](TAs/);
+* [Other work positions](other/).
+* [Master's theses related to Duckietown](masters/).
+
+**For ETH Zürich postdoctoral researchers (and very senior Ph.D. students)**: Last year,
+at MIT, one of the collateral uses of Duckietown was to
+provide an opportunity for postdocs to
+develop their teaching and mentoring skills. We will reproduce
+the same idea.
+
+We are looking for:
+
+* [mentors](mentors/)
+* [lecturers](lecturers/)
 
 [questionnaire]: #
 
@@ -86,7 +101,7 @@ Guest instructors:
 - TBD
 - TBD
 
-*We are looking for postdocs to give lectures on their specialties. Please
+*We are looking for postdocs [to give guest lectures on their specialties](lecturers/). Please
 contact [Andrea Censi][censi] if you are interested.*
 
 
@@ -100,19 +115,16 @@ contact [Andrea Censi][censi] if you are interested.*
 The grade is based on (1) the realization of a project (40%); (2) a project report (40%); (3) a project presentation (20%). The projects will be group based, but the contribution of each student will be assessed individually.
 
 
-
-
-
 ## Prerequisites
 
 * Familiarity with Linux development environment.
 * Access to a laptop with Ubuntu 16.04 installed. (Note: **16**.)
 
 
-## Related classes at ETH Z&uuml;rich
+## Related classes at ETH Zürich
 
 There are several related classes available
-to ETH Z&uuml;rich students.
+to ETH Zürich students.
 In particular, we recommend:
 
 - Prof. [Siegwart][siegwart]'s and Prof. [Chli][chli]'s [Autonomous Mobile Robots (AMR)][AMR], in the second semester.
@@ -157,6 +169,13 @@ refer to this paper:
 </cite>
 
 
+### A personal experience
+
+Each student gets their own personal Duckiebot and can bring it home.
+
+<!-- On the first day, you will be given a box of parts. -->
+
+
 ### Collaboration/competition with twin institutions
 
 This class is offered at the same time at two others institutions:
@@ -188,8 +207,7 @@ In all of this, the whimsical aspects ...
 
 ## Class format
 
-On the first day, you will be given a box of parts. -->
-
+-->
 
 
 <style>
