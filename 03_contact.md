@@ -6,5 +6,21 @@ permalink: contact.html
 
 For all inquiries, please contact [`duckietown@mit.edu`](mailto:duckietown@mit.edu).
 
-<!-- 
-Duckietown is a distributed project -->
+<!--
+
+The currently
+
+Andrea Censi - contact
+
+For all enquiries regarding Duckietown-related activities in Canada,
+
+For all enquiries regarding Duckietown-related activities in Italy,
+
+Duckietown is a distributed project
+
+
+
+
+
+
+-->
