@@ -8,6 +8,8 @@ permalink: classes/2017/17-ETHZ/index.html
 Welcome to the webpage for the class **Autonomous Mobility on Demand (AMOD): from car to fleet** (catalogue number [151-0323-00L][official]), which is
 informally known as "Duckietown".
 
+### Introduction
+
 [official]: http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheitPre.do?semkez=2017W&ansicht=EINSCHRAENKUNGEN&lerneinheitId=119019&lang=en
 
 This class is a new offering at ETH Zürich for Fall 2017
@@ -24,8 +26,8 @@ the [extremely succesfull first edition at MIT in 2016](/classes/2016/16-MIT/ind
 [mavt]: http://mavt.ethz.ch
 [master-meche]: http://www.master-mechanical-engineering.ethz.ch/
 
+### For ETH Zürich Students
 
-**For ETH Zürich Students**:
 Note that there is only a limited number of spots available,
 because of resource constraints (e.g. each student gets a robot).
 
@@ -42,6 +44,23 @@ which helps us fine-tuning the class to your background.
 </p>
 
 
+## Updates to this page
+
+<ul id='news'>
+  {% for post in site.posts %}
+  {% if post.categories contains '17-ETHZ' %}
+    <li>
+    {{ post.date | date_to_long_string }} -
+      <strong>{{ post.title }}</strong> -
+      {{ post.content }}
+    </li>
+  {% endif %}
+  {% endfor %}
+</ul>
+
+<style>
+#news li p { display: inline; }
+</style>
 
 
 

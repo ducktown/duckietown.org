@@ -5,8 +5,8 @@ permalink: index.html
 ---
 
 
-<div style='text-align: left'>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/-TwocCeJUe8" frameborder="0" allowfullscreen>
+<div style='float: right; text-align: left; margin-left: 2em'>
+    <iframe width="300" height="220" src="https://www.youtube.com/embed/-TwocCeJUe8" frameborder="0" allowfullscreen>
         <!-- -->
     </iframe>
 </div>
@@ -16,14 +16,59 @@ permalink: index.html
 The project started as a graduate class in 2016 at MIT; as of 2017, six other universities have used the materials produced,
 as well as dozens of self-guided learners.
 
-The most tangible goal of the project is to provide a low-cost
-educational platform for learning autonomy, consisting of the
+The most tangible goal of the project is to provide a **low-cost
+educational "experience"** for learning autonomy, consisting of the
 "Duckiebots", an autonomous robot, and the "Duckietowns", the
 infrastructure in which the Duckiebots navigates.
 
-In addition to the hardware and software, we will build a
-set of learning modules that can be used at various levels
+In addition to the **hardware** and **software**, we build a
+set of **learning modules** that can be used at various levels
 of education.
+
+
+### Current status of the project
+
+Duckietown has graduated from being one class to an international initiative.
+We are in the process of creating the second version of the class and the
+materials, preparing for a large publicity initiative in early 2018. There are
+many ways in which [you can help](help.html).
 
 <!--
 <p class='more-information'>For more information, see the <a href="http://book.duckietown.org/master/duckiebook/what_is_duckietown.html#sec:what-is-duckietown">section <em>What is Duckietown?</em></a> in the Duckietown book.</p> -->
+
+<div id='logos'>
+    <img id='mit' src='media/logos/800px-MIT_logo.svg.png'/>
+    <img id='eth' src='media/logos/eth_logo_kurz_pos-cropped.png'/>
+    <img id='udem' src='media/logos/1280px-Universite_de_Montreal_logo.svg.png'/>
+    <img id='nctu' src='media/logos/1200px-NCTU_emblem.svg.png'/>
+    <img id='tti' src='media/logos/tti.png'/>
+</div>
+<style>
+#logos img {  width: auto; margin-right: 1em;}
+
+img#eth { height: 4em; }
+img#udem { height: 4em; }
+img#mit { height: 3em; }
+img#nctu { height: 5em; }
+img#tti { height: 5em; }
+
+</style>
+
+### News
+
+<ul id='news'>
+  {% for post in site.posts %}
+  {% if post.categories contains 'front-page' %}
+    <li>
+    {{ post.date | date_to_long_string }}
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <!-- {{ post.excerpt | remove: '<p>' | remove: '</p>' }} -->
+      <a href="{{ post.url }}">(read more)</a>
+    </li>
+  {% endif %}
+  {% endfor %}
+</ul>
+
+<style>
+#news li p { display: inline; }
+</style>

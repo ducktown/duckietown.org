@@ -34,14 +34,14 @@ These are the Master's theses available:
 
 1. [**Design of a worldwide low-cost robotics education experience**](#design-low-cost) -
   an interdisciplinary, entrepreneurial thesis.
+7. [**Scalable architectures for autonomy: from Duckiebot to a self-driving taxi**](#scalable).
 2. **Optimal co-design of resource-constrained robots** - developed either as an interdisciplinary thesis in mechanical engineering/robotics, or as a theoretical thesis in applied mathematics.
 3. **Vision-based SLAM under resource constraints** - a robotics robotics/vision thesis, can be developed more on the *algorithmic* side (focus on the implementation) or the _theoretical_ side (focus on models and theoretical prediction).
-4. **Fleet coordination and management**
 5. **Learning the rules of the road** - an algorithmic machine learning-focused thesis.
 6. **Planning to learn and learning to plan**  - an algorithmic, with elements of machine learning-focused and robot planning and control
-7. [**Scalable architectures for autonomy: from Duckiebot to an autonomous go-kart to a self-driving taxi**](#scalable).
+4. **Fleet coordination and management**: various topics available.
 
-## Master Thesis: Design of a worldwide low-cost robotics education experience {#design-low-cost}
+## Thesis: "Design of a worldwide low-cost robotics education experience" {#design-low-cost}
 
 Type of project: *interdisciplinary*, *entrepreneurial*.
 
@@ -52,16 +52,20 @@ Suppose there is 1 million people in the world interested in learning robotics
 using Duckietown. How to make it feasible for 1 million people to have their
 Duckiebot?
 
-Here, when we say "low costs", we do not include only money, but also all the
-other costs that are necessary to own and operate the platform.
+When we say "low costs", we do not include only the monetary, but also all the
+other costs that are necessary to assemble and operate the platform. For example,
+if soldering is necessary, it is a cost in tools, time, and skills.
 
-Moreover, we do not consider the platform in isolation. If you are learning
+On the other hand, we do not consider the platform in isolation. If you are learning
 robotics, probably you would also like to be learning embedded systems,
 computer vision, and other similar topics that would use similar equipment.
-
 In this sense, while the cost of a Raspberry PI 3 is $35, that monetary cost
 should be amortized among other projects that could be performed with the same
 hardware.
+
+Therefore, at this moment it is not clear if we want to mass-produce a fixed
+platform (the cheapest solution in isolation), or think of a "kit" with reusable parts
+(where the cost can be amortized over other projects).
 
 #### Methodology
 
@@ -96,9 +100,9 @@ The expected results are (a subset of) these:
 - Establishing the support of governments and NGOs to find help
   for publicizing and support the project.
 
-## Scalable architectures for autonomy: from Duckiebot to an autonomous go-kart to a self-driving taxi {#scalable}
+## Thesis: "Scalable architectures for autonomy: from Duckiebot to a self-driving taxi" {#scalable}
 
-### Motivation
+#### Motivation
 
 Robots come in all shapes and sizes. And for each one, the software is created
 ad hoc. The software created for a robot cannot automatically be made to run on
@@ -112,7 +116,7 @@ platforms? For example, can we create an "autopilot" that can drive the humble
 $150 Duckiebot, a professional $10,000 go-cart, and a full-sized self-driving
 car?
 
-### Methodology
+#### Methodology
 
 To achieve that goal, it is necessary to create an architecture that has:
 
@@ -132,7 +136,7 @@ or in algorithms.
 
 #### Expected results
 
-An architecture that adapts to drive a Duckiebot (with a Raspberry PI 3 computer and 1 camera) and a self-driving car (with an nVidia Drive PX and 6 cameras). 
+An architecture that adapts to drive a Duckiebot (with a Raspberry PI 3 computer and 1 camera) and a self-driving car (with an nVidia Drive PX and 6 cameras).
 
 
 [idsc]: http://www.idsc.ethz.ch/
