@@ -39,10 +39,11 @@ many ways in which [you can help](help.html).
 <div id='logos'>
     <img id='mit' src='media/logos/800px-MIT_logo.svg.png'/>
     <img id='eth' src='media/logos/eth_logo_kurz_pos-cropped.png'/>
-    <img id='udem' src='media/logos/1280px-Universite_de_Montreal_logo.svg.png'/>
     <img id='nctu' src='media/logos/1200px-NCTU_emblem.svg.png'/>
+    <img id='udem' src='media/logos/1280px-Universite_de_Montreal_logo.svg.png'/>
     <img id='tti' src='media/logos/tti.png'/>
 </div>
+
 <style>
 #logos img {  width: auto; margin-right: 1em;}
 
