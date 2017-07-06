@@ -1,6 +1,7 @@
 ---
 layout: page
 title: TTIC and UChicago
+longtitle: "Self-driving Vehicles: Models and Algorithms for Autonomy"
 permalink: classes/2017/TTIC/index.html
 ---
 
@@ -28,7 +29,7 @@ If you'd like to register for the course, you **must** first complete this [ques
 
 **For TTIC and UChicago Students**: We have available positions for:
 
-* [TAs](TAs/);
+* [TAs](TAs/)
 * [Other work positions](other/).
 
 **For TTIC and UChicago postdoctoral researchers (and very senior Ph.D. students)**: Last year,
@@ -47,8 +48,6 @@ We are looking for:
 
 
 ## Dates and times
-
-This is a 4 credits class.
 
 Lecture times:
 
@@ -73,7 +72,7 @@ Lecture times:
 
 - [Prof. Matthew Walter][walter]
 
-[walter]: http://ttic.edu`/walter`
+[walter]: http://ttic.edu/walter
 
 Guest instructors:
 
@@ -82,12 +81,12 @@ Guest instructors:
 - TBD
 
 *We are looking for postdocs [to give guest lectures on their specialties](lecturers/). Please
-contact [Matthew Walter][censi] if you are interested.*
+contact [Matthew Walter][walter] if you are interested.*
 
 
 ## Syllabus
 
-(To write.)
+See the [course syllabus](syllabus/) for additional details on the class.
 
 
 ## Grading
@@ -109,12 +108,10 @@ The grade is based on:
 
 The most relevant course at TTIC is:
 
-- Prof. [Walter][walter]'s [Planning, Learning, and Estimation for Robotics and Artificial Intelligence][robot-learning] (aka Robot Learning and Estimation).
+- [Prof. Walter][walter]'s [Planning, Learning, and Estimation for Robotics and Artificial Intelligence][robot-learning] (aka Robot Learning and Estimation).
 If you cannot get into Self-driving Vehicles: Models and Algorithms for Autonomy, the Robot Learning and Estimation class
 will give you a solid introduction to robotics.
 Because the content and format are different than this course, it would be most beneficial to take Robot Learning and Estimation first, but the two can be taken in either order.
-
-- Prof. [Scaramuzza][scaramuzza]'s [Computer Vision][scaramuzza-class] class. This class is in the first semester, and it is a great complement to this one.
 
 [robot-learning]: http://www.ttic.edu/courses/#robo
 
