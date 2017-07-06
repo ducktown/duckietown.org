@@ -98,6 +98,8 @@ The expected results are (a subset of) these:
 
 ## Scalable architectures for autonomy: from Duckiebot to an autonomous go-kart to a self-driving taxi {#scalable}
 
+### Motivation
+
 Robots come in all shapes and sizes. And for each one, the software is created
 ad hoc. The software created for a robot cannot automatically be made to run on
 another different robot, even if the sensors, the dynamics, and the task  are
@@ -110,13 +112,28 @@ platforms? For example, can we create an "autopilot" that can drive the humble
 $150 Duckiebot, a professional $10,000 go-cart, and a full-sized self-driving
 car?
 
+### Methodology
+
 To achieve that goal, it is necessary to create an architecture that has:
 
 * Scalable perception algorithms;
 * Scalable internal representations of the world;
 * Scalable planning algorithms;
 
-These three components should scale, up and down, with the resources available
+These three components should scale, up and down, with the resources available.
+
+For representations, one type of scaling is achieved with configuration parameters:
+For example, with low computation available, the map might have low resolution,
+and the resolution increases when there is more computation.
+Another type of scaling swaps in and out different "layers" of map.
+
+For perception and planning algorithms, likewise, the change can be either in parameters
+or in algorithms.
+
+#### Expected results
+
+An architecture that adapts to drive a Duckiebot (with a Raspberry PI 3 computer and 1 camera) and a self-driving car (with an nVidia Drive PX and 6 cameras). 
+
 
 [idsc]: http://www.idsc.ethz.ch/
 [Emilio Frazzoli]: http://www.idsc.ethz.ch/the-institute/people/person-detail.html?persid=224034
