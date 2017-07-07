@@ -1,9 +1,14 @@
-/*!
- * Clean Blog v1.0.0 (http://startbootstrap.com)
- * Copyright 2015 Start Bootstrap
- * Licensed under Apache 2.0 (https://github.com/IronSummitMedia/startbootstrap/blob/gh-pages/LICENSE)
- */
 
+code {
+  color: inherit !important;
+  background-color: inherit !important;
+  padding: inherit !important;
+}
+p.under-construction {
+    border-left: solid 1em pink;
+    padding-left: 1em;
+    color: darkred;
+}
 div.figure-with-caption {
 
 }
