@@ -5,7 +5,7 @@ longtitle: "Self-driving Vehicles: Models and Algorithms for Autonomy"
 permalink: classes/2017/TTIC/index.html
 ---
 
-Welcome to the webpage for the class **Self-driving Vehicles: Models and Algorithms for Autonomy** (catalogue number TTIC 31240), which is
+Welcome to the webpage for **Self-driving Vehicles: Models and Algorithms for Autonomy** (catalogue number TTIC 31240), which is
 informally known as "Duckietown".
 
 This class is a new offering at TTIC for Autumn 2017, and follows
@@ -15,21 +15,22 @@ the [extremely successful first edition at MIT in 2016](/classes/2016/16-MIT/ind
 
 
 **For TTIC and UChicago Students**:
-There number of spots available is extremely limited due to resource constraints (e.g., each student gets a robot). Consequently, registration is subject to instructor approval.
+The number of spots available is extremely limited due to resource constraints (e.g., each student gets a robot). Consequently, registration is subject to instructor approval.
+
+If you'd like to register for the course, you **must** first complete this [questionnaire][questionnaire], which helps us fine-tune the class to your background.**
 
 Please read this page thoroughly and sign up *only* if you
 think the class is right for you. It might help to take a
 look at the materials for the first edition of the class, at
 the site [duckietown.mit.edu](http://duckietown.mit.edu).
 
-If you'd like to register for the course, you **must** first complete this [questionnaire][questionnaire], which helps us fine-tuning the class to your background.**
 
 
 ## Positions available
 
 **For TTIC and UChicago Students**: We have available positions for:
 
-* [TAs](TAs/)
+* [Learning assistants](TAs/)
 * [Other work positions](other/).
 
 **For TTIC and UChicago postdoctoral researchers (and very senior Ph.D. students)**: Last year,
