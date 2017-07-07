@@ -5,11 +5,8 @@ longtitle: "Self-driving Vehicles: Models and Algorithms for Autonomy"
 permalink: classes/2017/TTIC/index.html
 ---
 
-Welcome to the webpage for **Self-driving Vehicles: Models and Algorithms for Autonomy** (catalogue number TTIC 31240), which is
-informally known as "Duckietown".
-
-This class is a new offering at TTIC for Autumn 2017, and follows
-the [extremely successful first edition at MIT in 2016](/classes/2016/16-MIT/index.html).
+Welcome to the webpage for **Self-driving Vehicles: Models and Algorithms for Autonomy** (TTIC 31240), which is
+informally known as "Duckietown". This is the first time that the course is being offered at TTIC, following    the [extremely successful first edition at MIT in 2016](/classes/2016/16-MIT/index.html).
 
 [Read below about what makes this a special class](#special).
 
@@ -17,18 +14,18 @@ the [extremely successful first edition at MIT in 2016](/classes/2016/16-MIT/ind
 **For TTIC and UChicago Students**:
 The number of spots available is extremely limited due to resource constraints (e.g., each student gets a robot). Consequently, registration is subject to instructor approval.
 
-If you'd like to register for the course, you **must** first complete this [questionnaire][questionnaire], which helps us fine-tune the class to your background.**
-
 Please read this page thoroughly and sign up *only* if you
 think the class is right for you. It might help to take a
-look at the materials for the first edition of the class, at
-the site [duckietown.mit.edu](http://duckietown.mit.edu).
+look at the materials for the first edition of the class, available at
+[duckietown.mit.edu](http://duckietown.mit.edu).
+
+If you'd like to register for the course, you **must** first complete this [questionnaire][questionnaire], which helps us fine-tune the class to your background.
 
 
 
 ## Positions available
 
-**For TTIC and UChicago Students**: We the following positions available:
+**For TTIC and UChicago Students**: We have openings for the following positions:
 
 * [Learning assistants](LAs/)
 * [Other work positions](other/)
@@ -108,8 +105,8 @@ The grade is based on:
 
 ## Prerequisites
 
-* Familiarity with Linux development environment.
-* Access to a laptop with Ubuntu 16.04 installed. (Note: Not 14.04)
+* Familiarity with the GNU/Linux development environment.
+* Access to a laptop with Ubuntu 16.04 installed.
 
 
 ## Related classes at TTIC
@@ -165,6 +162,10 @@ This class is offered at the same time at two others institutions:
 
 The three institutions will develop the autonomous fleets together, and there will be a (very friendly) competition at the end.
 
+
+## Support
+
+We are grateful to TTIC, whose support made this class possible.
 
 <!-- ### Broader impact beyond ETH Zurich
 
