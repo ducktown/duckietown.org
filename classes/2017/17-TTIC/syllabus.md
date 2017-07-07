@@ -45,7 +45,7 @@ Upon completion of the course, you will have an understanding of fundamental tec
 
 ## Instructor
 
-Matthew R. Walter, TTIC Room 429, mwalter@ttic.edu,
+Matthew R. Walter, TTIC Room 429, &#109;&#119;&#097;&#108;&#116;&#101;&#114;&#064;&#116;&#116;&#105;&#099;&#046;&#101;&#100;&#117;,
 773-834-3637
 
 Office Hours: TBD in TTIC 429
