@@ -51,9 +51,9 @@ Matthew R. Walter, TTIC Room 429, &#109;&#119;&#097;&#108;&#116;&#101;&#114;&#06
 Office Hours: TBD in TTIC 429
 
 
-## Class Meetings
+## Lecture Times
 
-Mondays and Wednesdays from 9:00am--11:00am in TTIC Room TBD
+Mondays and Wednesdays from 9:00am--11:00am in TTIC TBD
 
 Lab sessions will take place on the 4th floor of the TTIC building in the south-east corner.
 

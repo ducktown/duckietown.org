@@ -28,16 +28,15 @@ the site [duckietown.mit.edu](http://duckietown.mit.edu).
 
 ## Positions available
 
-**For TTIC and UChicago Students**: We have available positions for:
+**For TTIC and UChicago Students**: We the following positions available:
 
-* [Learning assistants](TAs/)
-* [Other work positions](other/).
+* [Learning assistants](LAs/)
+* [Other work positions](other/)
 
-**For TTIC and UChicago postdoctoral researchers (and very senior Ph.D. students)**: Last year,
-at MIT, one of the collateral uses of Duckietown was to
+**For TTIC and UChicago postdoctoral researchers and senior Ph.D. students**: In the inaugural class at MIT, one of the collateral uses of Duckietown was to
 provide an opportunity for postdocs to
 develop their teaching and mentoring skills. We will reproduce
-the same idea.
+the same idea this quarter.
 
 We are looking for:
 
@@ -54,7 +53,7 @@ Lecture times:
 
 <table id='times'>
 <thead>
-    <tr><td>day</td><td>times</td><td>room</td></tr>
+    <tr><td>day</td><td>time</td><td>room</td></tr>
     </thead>
     <tbody>
     <tr><td>Monday</td>	<td>9am-11am</td>	<td>TBD</td></tr>
@@ -75,9 +74,17 @@ Lecture times:
 
 [walter]: http://ttic.edu/walter
 
-Guest instructors:
+**Learning assistants**:
 
+- Andrea Daniele
+- Zhongtian (Falcon) Dai
 - TBD
+
+*We are looking for more [learning assistants](LAs/). Please
+contact [Matthew Walter][walter] if you are interested.*
+
+**Guest lecturers**:
+
 - TBD
 - TBD
 
@@ -94,22 +101,22 @@ See the [course syllabus](syllabus/) for additional details on the class.
 
 The grade is based on:
 
-* the realization of a project (TBD);
-* a project report (TBD); and
-* a project presentation (TBD). The projects will be group-based, but the contribution of each student will be assessed individually.
+* the realization of a project (percentage TBD);
+* a project report (percentage TBD); and
+* a project presentation (percentage TBD). The projects will be group-based, but the contribution of each student will be assessed individually.
 
 
 ## Prerequisites
 
 * Familiarity with Linux development environment.
-* Access to a laptop with Ubuntu 16.04 installed. (Note: **16**.)
+* Access to a laptop with Ubuntu 16.04 installed. (Note: Not 14.04)
 
 
 ## Related classes at TTIC
 
 The most relevant course at TTIC is:
 
-- [Prof. Walter][walter]'s [Planning, Learning, and Estimation for Robotics and Artificial Intelligence][robot-learning] (aka Robot Learning and Estimation).
+- [Planning, Learning, and Estimation for Robotics and Artificial Intelligence][robot-learning] (aka Robot Learning and Estimation).
 If you cannot get into Self-driving Vehicles: Models and Algorithms for Autonomy, the Robot Learning and Estimation class
 will give you a solid introduction to robotics.
 Because the content and format are different than this course, it would be most beneficial to take Robot Learning and Estimation first, but the two can be taken in either order.
@@ -117,7 +124,7 @@ Because the content and format are different than this course, it would be most 
 [robot-learning]: http://www.ttic.edu/courses/#robo
 
 
-# What makes this a special class {#special}
+# What makes this a special class? {#special}
 
 
 ## Class philosophy
