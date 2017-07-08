@@ -51,7 +51,7 @@ img#eth { height: 4em; }
 img#udem { height: 4em; }
 img#mit { height: 3em; }
 img#nctu { height: 5em; }
-img#tti { height: 5em; }
+img#ttic { height: 5em; }
 
 </style>
 
