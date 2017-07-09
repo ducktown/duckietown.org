@@ -130,7 +130,7 @@ The projects require: a demo, a presentation, and a project report.
 The way these are graded is the following: at the end of the class all the senior staff (i.e., people with a PhD) will vote anonymously on every project. A mentor will not vote on the project that they are mentoring.
 This number is shared about the members of the team and counts for 70% of the project grade.
 
-The other 30% of te project grade is assigned by the mentor. It is thus possible for the members of the team to obtain a different grade for the project part.
+The other 30% of the project grade is assigned by the mentor. It is thus possible for the members of the team to obtain a different grade for the project part.
 
 
 
