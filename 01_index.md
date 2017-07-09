@@ -41,7 +41,7 @@ many ways in which [you can help](help.html).
     <img id='eth' src='media/logos/eth_logo_kurz_pos-cropped.png'/>
     <img id='nctu' src='media/logos/1200px-NCTU_emblem.svg.png'/>
     <img id='udem' src='media/logos/1280px-Universite_de_Montreal_logo.svg.png'/>
-    <img id='tti' src='media/logos/tti.png'/>
+    <img id='ttic' src='media/logos/ttic-new.png'/>
 </div>
 
 <style>
@@ -51,7 +51,7 @@ img#eth { height: 4em; }
 img#udem { height: 4em; }
 img#mit { height: 3em; }
 img#nctu { height: 5em; }
-img#tti { height: 5em; }
+img#ttic { height: 5em; }
 
 </style>
 
