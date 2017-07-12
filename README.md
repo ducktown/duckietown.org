@@ -14,4 +14,4 @@ Install Jekyll.
 
 Then run:
 
-	$ jekyll serve
+	$ make serve
