@@ -13,12 +13,23 @@ This class is a new offering at ETH Z&uuml;rich for Fall 2017
 in the context of the [Master of Science in Robotics, Systems and Control][master]
 and the Master in Mechanical engineering
 in the [Department of Mechanical and Process Engineering (D-MAVT)][mavt].
-
 This class follows
 the [extremely succesfull first edition at MIT in 2016](/classes/2016/16-MIT/index.html).
 
 [master]: http://www.master-robotics.ethz.ch/
 [mavt]: http://mavt.ethz.ch
+
+
+
+<div class='figure-with-caption'>
+    <img src="/media/classes/duckietown-mit.jpg"/>
+    <p>Duckietown at MIT in 2016</p>
+</div>
+
+<div class='figure-with-caption'>
+    <img src="/media/classes/duckietown-taiwan.jpg"/>
+    <p>Duckietown at NCTU in 2016</p>
+</div>
 
 
 [See below what makes this a special class](#special).
