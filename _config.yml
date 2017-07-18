@@ -3,3 +3,5 @@ exclude:
   - CNAME
   - README.md
   - "*.head"
+description: |
+    Duckietown is an international robotics education and outreach effort.

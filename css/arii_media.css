@@ -1,9 +1,14 @@
-/*!
- * Clean Blog v1.0.0 (http://startbootstrap.com)
- * Copyright 2015 Start Bootstrap
- * Licensed under Apache 2.0 (https://github.com/IronSummitMedia/startbootstrap/blob/gh-pages/LICENSE)
- */
 
+code {
+  color: inherit !important;
+  background-color: inherit !important;
+  padding: inherit !important;
+}
+p.under-construction {
+    border-left: solid 1em pink;
+    padding-left: 1em;
+    color: darkred;
+}
 div.figure-with-caption {
 
 }
@@ -55,6 +60,9 @@ p.more-information:before {
     margin-top: 1.3em;
 }
 
+div.navbar {
+    min-width: 15em;
+}
 div.nav-primary >ul {
     display: block;
     min-height: 300px;
@@ -62,6 +70,7 @@ div.nav-primary >ul {
 
 div.nav-primary > ul {
     width: 100%;
+
 }
 div.nav-primary ul {
     list-style-type: none;
@@ -99,7 +108,9 @@ h1 {
     max-width: 14em;
 }
 
-#page-content p {
+#page-content p,
+#page-content ul,
+#page-content ol {
     max-width: 50em;
 }
 

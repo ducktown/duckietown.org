@@ -8,4 +8,4 @@ permalink: classes/2017/index.html
 
 - [University of Montreal, 2017](17-Montreal/)
 - [ETH Zurich 2017](17-ETHZ/)
-- [TTI/Chicago 2017](17-TTI-Chicago/)
+- [TTIC/UChicago 2017](TTIC/)
