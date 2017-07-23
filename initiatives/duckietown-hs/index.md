@@ -16,7 +16,7 @@ permalink: initiatives/duckietown-hs/index.html
   Vehicle control is carried out by a [NUCLEO-F401RE](http://www.st.com/content/st_com/en/products/evaluation-tools/product-evaluation-tools/mcu-eval-tools/stm32-mcu-eval-tools/stm32-mcu-nucleo/nucleo-f401re.html) board that uses a microcontroller ARM®32-bit Cortex®-M4 CPU with FPU.
   The project is promoted by the non-profit organization <p><a href="http://www.perlatecnica.it">Perlatecnica</a></p> 
     based in Italy. Currently, ten Italian high schools are involved in developing their duckiebots. 
-  <p><a href="https://www.facebook.com/duckietownhs">Here</a></p> is the DuckitownHS Facebook page.
+  Click <a href="https://www.facebook.com/duckietownhs">Here</a> to go to the DuckitownHS Facebook page.
 
 </p>
 </body>
