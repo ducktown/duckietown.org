@@ -4,8 +4,7 @@ title: Duckietown High School
 permalink: initiatives/duckietown-hs/index.html
 ---
 
-<img src='dthslogo.jpg'  width="350"/>
-  
+
   DuckietownHS is inspired by the Duckietown project and targeted for high schools.
   The goal is to build and program duckiebots capable of moving autonomously on the streets of Duckietown. 
   Unlike the Duckietown project, duckiebotHS does not use a camera as a sensor, but perception is based on infrared sensors to stay in     the lane, gyroscope and accelerometers to help determine the vehicle's progress and proximity sensors based on technology "Time of       Flight" for avoiding obstacles. 
@@ -17,3 +16,5 @@ permalink: initiatives/duckietown-hs/index.html
   The project is promoted by the non-profit organization [Perlatecnica](http://www.perlatecnica.it) based in Italy. Currently, ten Italian high schools are involved     in developing their duckiebots. 
   [Here](https://www.facebook.com/duckietownhs) is the DuckitownHS Facebook page.
   
+  
+  <img src='dthslogo.jpg'  width="350"/>
