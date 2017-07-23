@@ -3,7 +3,7 @@ layout: page
 title: Duckietown High School
 permalink: initiatives/duckietown-hs/index.html
 ---
-<img src='dthslogo.jpg'  width="200"/>
+<img src='dthslogo.jpg'  style="width:192px;height:151px;"/>
 
   DuckietownHS is inspired by the Duckietown project and targeted for high schools.
   The goal is to build and program duckiebots capable of moving autonomously on the streets of Duckietown. 
