@@ -10,12 +10,13 @@ Welcome to the webpage for the class **Autonomous Vehicles** at [l'Université d
 [montreal]: http://www.umontreal.ca/en/
 
 <p class='under-construction'>
-The site is just getting built now, please bear with us
+The site is just getting built now, please bear with me
 </p>
 
-This class follows
-the [succesful first edition at MIT in 2016](/classes/2016/16-MIT/index.html).
+<img src="/media/duckietown-nice.png" alt="Duckietown" style="height: 200px; width: 250px"/><img src="/media/classes/duckietown-mit.jpg" alt="MIT Duckietown" style="height:200px; width: 400px; border: 5px"/><img src="/media/duckiebot-side.png" alt="Duckiebot" style="height: 200px; width: 200px"/>
 
+
+This class follows the [succesful first edition at MIT in 2016](/classes/2016/16-MIT/index.html).
 
 [Read the official description](description/)
 
@@ -56,6 +57,9 @@ Similarly to the above solicitation to professors, I am interested in having pos
 
 Additionally, I am looking for postdocs to act as mentors in the course project phase of the class. In the MIT version we had about 15 or so of these magical postdocs helping with the class. It is not impossible that you get your name on a paper out of it! (But no promises..). Please [contact me asap][lpaull].
 
+## Anyone else that wants to help
+
+We have many needs from small to large. Whatever your expertise, it is likely that we can use your help. Not least of all would other students who want to act as teaching assistants (I might be able to pay you). Please [contact me asap][lpaull]
 
 # What makes this a special class {#special}
 
