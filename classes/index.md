@@ -9,16 +9,27 @@ classes that used the Duckietown materials.
 
 **2016**: These are the classes that took place in 2016:
 
-- [MIT 2016](2016/16-MIT/)
-- [NCTU 2016](2016/16-NCTU/)
-- [RPI 2016](2016/16-RPI/)
+- The original Duckietown class was at [MIT 2016](2016/16-MIT/);
 
-**2017**: These are the classes that will take place in 2017:
+The Duckietown platform was also used in these classes:
 
-- [University of Montreal, 2017](2017/17-Montreal/)
-- [ETH Zurich 2017](2017/17-ETHZ/)
-- [TTIC/UChicago 2017](2017/TTIC/)
+- [NCTU 2016](2016/16-NCTU/) - Prof. Nick Wang;
+- [RPI 2016](2016/16-RPI/) - Prof. John Wen;
 
+**2017**: These three courses will be taught together, with the students interacting among institutions:
+
+- [ETH Zürich 2017](2017/17-ETHZ/) - Prof. Emilio Frazzoli, Dr. Andrea Censi;
+- [University of Montreal, 2017](2017/17-Montreal/) - Prof. Liam Paull;
+- [TTI/Chicago 2017](2017/17-TTI-Chicago/) - Prof. Matthew Walter;
+
+Furthermore, the Duckietown platform was used also in these courses:
+
+- National Chiao Tung University, Taiwan - Prof. Nick Wang's course;
+- National Chiao Tung University, Taiwan - Prof. Yon-Ping Chen's *Dynamic system simulation and implementation*.
+- Chosun University, Korea - Prof. Woosuk Sung's course;
+- Petra Christian University, Indonesia - Prof. Resmana Lim's *Mobile Robot Design Course*
+- National Tainan Normal University, Taiwan - Prof. Jen-Jee Chen's *Vehicle to Everything* (V2X) Course;
+- Yuan Zhu University, Taiwan - Prof. Kan-Lin Hsiung's Control course;
 
 <div class='figure-with-caption'>
     <img src="/media/classes/duckietown-taiwan.jpg"/>

@@ -1,4 +1,5 @@
 github_username: duckietown
+incremental: true 
 exclude:
   - CNAME
   - README.md

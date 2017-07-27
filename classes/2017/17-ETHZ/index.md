@@ -8,41 +8,6 @@ permalink: classes/2017/17-ETHZ/index.html
 Welcome to the webpage for the class **Autonomous Mobility on Demand (AMOD): from car to fleet** (catalogue number [151-0323-00L][official]), which is
 informally known as "Duckietown".
 
-### Introduction
-
-[official]: http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheitPre.do?semkez=2017W&ansicht=EINSCHRAENKUNGEN&lerneinheitId=119019&lang=en
-
-This class is a new offering at ETH Zürich for Fall 2017
-in the context of the [Master of Science in Robotics, Systems and Control][master]
-and the [Master in Mechanical Engineering][master-meche]
-in the [Department of Mechanical and Process Engineering (D-MAVT)][mavt].
-
-This class follows
-the [extremely succesfull first edition at MIT in 2016](/classes/2016/16-MIT/index.html).
-
-[Read below about what makes this a special class](#special).
-
-[master]: http://www.master-robotics.ethz.ch/
-[mavt]: http://mavt.ethz.ch
-[master-meche]: http://www.master-mechanical-engineering.ethz.ch/
-
-### For ETH Zürich Students
-
-Note that there is only a limited number of spots available,
-because of resource constraints (e.g. each student gets a robot).
-
-Please read this page thoroughly and sign up *only* if you
-think the class is right for you. It might help to take a
-look at the materials for the first edition of the class, at
-the site [duckietown.mit.edu](http://duckietown.mit.edu).
-
-
-<p class='under-construction'>
-Please come back later in the summer to this page, as
-we will prepare a questionnaire for you
-which helps us fine-tuning the class to your background.
-</p>
-
 
 ## Updates to this page
 
@@ -61,6 +26,68 @@ which helps us fine-tuning the class to your background.
 <style>
 #news li p { display: inline; }
 </style>
+
+
+<div class='figure-with-caption'>
+    <a href="/media/classes/duckietown-mit.jpg"><img src="/media/classes/duckietown-mit.jpg"/></a>
+    <p>Duckietown at MIT in 2016</p>
+</div>
+
+<div class='figure-with-caption'>
+    <a href="/media/classes/duckietown-taiwan.jpg">
+    <img src="/media/classes/duckietown-taiwan.jpg"/>
+    </a>
+    <p>Duckietown at NCTU in 2016</p>
+</div>
+
+<div style='clear: both;'></div>
+
+<style>
+    .figure-with-caption img { height: 15em; width: auto;}
+    .figure-with-caption {
+        padding: 1.5em;
+        display: block; float: left;
+    }
+</style>
+
+
+### Introduction
+
+[official]: http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheitPre.do?semkez=2017W&ansicht=EINSCHRAENKUNGEN&lerneinheitId=119019&lang=en
+
+This class is a new offering at ETH Zürich for Fall 2017
+in the context of the [Master of Science in Robotics, Systems and Control][master]
+and the [Master in Mechanical Engineering][master-meche]
+in the [Department of Mechanical and Process Engineering (D-MAVT)][mavt].
+This class follows
+the [extremely succesfull first edition at MIT in 2016](/classes/2016/16-MIT/index.html).
+[Read below about what makes this a special class](#special).
+
+[master]: http://www.master-robotics.ethz.ch/
+[mavt]: http://mavt.ethz.ch
+[master-meche]: http://www.master-mechanical-engineering.ethz.ch/
+
+### For ETH Zürich Students
+
+Note that there is only a limited number of spots available,
+because of resource constraints (e.g. each student gets a robot).
+
+Please read this page thoroughly and sign up *only* if you
+think the class is right for you. It might help to take a
+look at the materials for the first edition of the class, at
+the site [duckietown.mit.edu](http://duckietown.mit.edu).
+
+
+
+
+<!--
+<p class='under-construction'>
+Please come back later in the summer to this page, as
+we will prepare a questionnaire for you
+which helps us fine-tuning the class to your background.
+</p> -->
+
+
 
 
 
@@ -166,10 +193,10 @@ These are necessary pre-requisites to take the class:
   to debug problems related to the configuration.)
 * Ability to store somewhere (at home or somewhere of campus), and to bring regularly to the lab, a box, or "Duckiebox", of dimensions 30 cm &times; 30 cm &times; 60 cm. This box has to be used to contain your Duckiebot and associate materials.
 
-<p class='under-construction'>
+<!-- <p class='under-construction'>
 We are finalizing the choice of distribution.
 It will likely be Ubuntu Mate 16.04.
-</p>
+</p> -->
 
 We will teach or provide points to these skills, but you are encouraged to read about them
 before the class:
