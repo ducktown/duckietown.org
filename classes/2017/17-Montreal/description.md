@@ -5,7 +5,7 @@ permalink: classes/2017/17-Montreal/description/index.html
 parent: classes/2017/17-Montreal/index.html
 ---
 
-**Title**: Autonomous Vehicles (aka. Duckietown)
+**Title**: Autonomous Vehicles (aka. Duckietown) (officially [IFT 6080 Sujets en exploitation des ordinateurs](https://admission.umontreal.ca/cours-et-horaires/cours/IFT-6080/))
 
 **Instructor**: Liam Paull
 
@@ -29,19 +29,19 @@ This course considers problems in perception, navigation, and control, and their
 
 Two of the main challenges in creating autonomous systems are:
 
-1. **the problem of "integration"** - How to make sure that subsystems developed separately work well together. For example, how to decide on a common representation of belief? 
+1. **The problem of "integration"** - How to make sure that subsystems developed separately work well together. For example, how to decide on a common representation of belief? 
 
-2. **the problem of "co-design" **- how to design the subsystems together, such that performance is maximized, while (shared) resource usage is minimized. For example: given that there is a limited power budget, how do you allocate it between perception and planning?
+2. **The problem of "co-design"**- how to design the subsystems together, such that performance is maximized, while (shared) resource usage is minimized. For example: given that there is a limited power budget, how do you allocate it between perception and planning?
 
 The **teaching objectives** that we most care about are:
 
-* Have the students understand how methods from **heterogenous disciplines **such as control theory, machine learning, computer vision, and artificial intelligence are integrated together to create a complex autonomous system.
+* Have the students understand how methods from **heterogeneous disciplines** such as control theory, machine learning, computer vision, and artificial intelligence are integrated together to create a complex autonomous system.
 
-* Discuss the** co-design constraints **and the design trade-offs** **explicitly**.** A typical example is a trade-off like "use cheap mechanisms with sophisticated algorithms" *vs* “use reliable hardware and simple algorithms”.
+* Discuss the co-design constraints and the design trade-offs explicitly. A typical example is a trade-off like "use cheap mechanisms with sophisticated algorithms" *vs* “use reliable hardware and simple algorithms”.
 
 * Familiarize the students with the basic practices of **reliable system development**, including test-driven and data-driven development.
 
-* Familiarize the students with the tools and the dynamics of **software and hardware open-source development. **All homework is shared on a central Git repository. After each milestone, everybody's software is readable for everybody to re-use.  
+* Familiarize the students with the tools and the dynamics of **software and hardware open-source development.** All homework is shared on a central Git repository. After each milestone, everybody's software is readable for everybody to re-use.
 
 ## Syllabus:
 
@@ -49,19 +49,25 @@ The course will cover the theory and application of probabilistic techniques for
 
 Following is a list of topics discussed in the class, roughly ordered from "metal" to “systems”:
 
-* **camera geometry; intrinsic/extrinsic calibration**
+* **Autonomy architectures**
 
-* **minimal sufficient representations for visual tasks**
+* **Sensors and models** (kinematics/dynamics)
 
-* **nonlinear filtering, including robust localization** and **mapping** (localize in a given map, or create your own map);
+* **Computer vision**  (intrinsic/extrinsic calibration, illumination invariance, feature extraction, line detection, place recognition)
 
-* **level 2,3 autonomy; shared control**
+* **Nonlinear filtering** (localize in a given map, or create your own map - SLAM)
 
-* **complex perception pipelines: **(use of)** **object** detection **(reading traffic signs)** and tracking**;
+* **Navigation and planning** (mission planning, motion planning and control basics)
 
-* **safety** and **correctness** (navigate intersections);
+* **Complex perception pipelines** (use of object detection, reading traffic signs, and tracking. Both model-based and learning based)
 
-* **signaling** **and** **coordination for distributed robotics** (reason about the intent of the other drivers);
+* **Safety**  (formal guarantees)
+
+* **Shared control** (human machine interaction)
+
+* **Multi-robot systems** (fleet-level planning, reason about the intent of the other drivers);
+
+* **Machine learning** (deep learning, reinforcement learning  for navigation and object detection)
 
 ## Details
 
@@ -69,7 +75,9 @@ Following is a list of topics discussed in the class, roughly ordered from "meta
 
 **Location: TBD**
 
-**Pre-requisites**: Permission of the instructor. Please come to the first class and fill out an application and/or email the instructor to discuss.
+**Pre-requisites**: Permission of the instructor. Please come to the first class and fill out [an application][form] and/or email the instructor to discuss.
+
+[form]: https://goo.gl/forms/Aqh1EY4B2AlENvLr2
 
 **Intended Enrollment**: 12 students
 
