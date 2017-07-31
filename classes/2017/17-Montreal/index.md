@@ -5,6 +5,7 @@ longtitle: "Autonomous Vehicles (aka. Duckietown)"
 permalink: classes/2017/17-Montreal/index.html
 ---
 
+
 Welcome to the webpage for the class **Autonomous Vehicles** at [l'Université de Montréal][montreal] which is informally known as "Duckietown" (officially [IFT 6080 Sujets en exploitation des ordinateurs](https://admission.umontreal.ca/cours-et-horaires/cours/IFT-6080/)).
 
 [montreal]: http://www.umontreal.ca/en/
