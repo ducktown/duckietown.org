@@ -5,7 +5,7 @@ longtitle: "Autonomous Vehicles (aka. Duckietown)"
 permalink: classes/2017/17-Montreal/index.html
 ---
 
-Welcome to the webpage for the class **Autonomous Vehicles** at [l'Université de Montréal][montreal] which is informally known as "Duckietown" (officially [IFT 6080 Sujets en exploitation des ordinateurs](https://admission.umontreal.ca/cours-et-horaires/cours/IFT-6080/).
+Welcome to the webpage for the class **Autonomous Vehicles** at [l'Université de Montréal][montreal] which is informally known as "Duckietown" (officially [IFT 6080 Sujets en exploitation des ordinateurs](https://admission.umontreal.ca/cours-et-horaires/cours/IFT-6080/)).
 
 [montreal]: http://www.umontreal.ca/en/
 
@@ -29,7 +29,7 @@ This class follows the [successful first edition at MIT in 2016](/classes/2016/1
 
 There are only 12 spots available for the class this year. If you are interested to be in the class, please fill out [the application form][form]. Please be verbose with the long answer questions and include anything that might help you stand out. This class is a collaborative learning experience and I'm looking for a good mix of talents and personalities.
 
-**I invite all to come to the first class Wed Sept. 6 @ 11:30 in rm. Z-210 Pavilion Claire-McNicoll. Decisions about admissions will be made following the first class**
+**I invite all to come to the first class Wed Sept. 6 @ 11:30 in rm. Z-210 Pavilion Claire-McNicoll. Decisions about admissions will be made following the first class**.
 
 The official admissions process will require filling out a [university application form](https://admission.umontreal.ca/admission/cycles-superieurs/demande-dadmission/) if you a student at U de M and contacting Céline Bégin if you are not. 
 
@@ -51,7 +51,7 @@ If you are not sure whether or not you would like to take the class I would enco
 
 ## University Professors in the Montreal area
 
-I am looking for excellent guest lectures to include in the class. The topic of the lectures is very flexible, but if you see something that is already [in the syllabus][syllabus] then that's even better. Please [contact me asap][lpaull].
+I am looking for excellent guest lectures to include in the class. The topic of the lectures is very flexible, but if you see something that is already [in the syllabus](description) then that's even better. Please [contact me asap][lpaull].
 
 [lpaull]: http://people.csail.mit.edu/lpaull
 
