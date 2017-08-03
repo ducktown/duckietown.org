@@ -164,10 +164,33 @@ contact [Andrea Censi][censi] if you are interested.* -->
 
 ## Syllabus
 
-
 <p class='under-construction'>
-To write. Please check back later.
+This is a temporary syllabus (approximately 80% converged).
 </p>
+
+- Introduction to Duckietown / summary of last years class;
+- Overview of autonomy - perception, planning, control;
+- Autonomy architectures;
+- Representations. Knowledge representation: tasks, goal;
+- Software architecture and middlewares;
+- Modern signal distribution and processing: periodic vs event-based processing; latency/frequency;
+- Modeling kinematics/dynamics;
+- Odometry calibration;
+- Sensors + Computer vision I - basics;
+- Computer vision II - illumination invariance;
+- Computer vision III -  line detection;
+- Feature extraction, place recognition;
+- Bayesian estimation;
+- Bayesian filtering;
+- Mission planning / discrete planning A*;
+- Motion planning - RRT*;
+- Control of vehicles (PID, MPC, etc.);
+- 2D/3D object detection / tracking, object classification using deep learning;
+- Semantic segmentation, text recognition using deep learning;
+- Reactive control;
+- Formal methods for safety;
+- Fleet-level planning;
+- Testing, validation and verification.
 
 
 ## Grading
@@ -191,7 +214,7 @@ These are necessary pre-requisites to take the class:
 * Access to a laptop on which you can install a particular Linux distribution
   dedicated to the class. Virtual machines are unsupported (you will be on your own
   to debug problems related to the configuration.)
-* Ability to store somewhere (at home or somewhere of campus), and to bring regularly to the lab, a box, or "Duckiebox", of dimensions 30 cm &times; 30 cm &times; 60 cm. This box has to be used to contain your Duckiebot and associate materials.
+* Ability to store somewhere (at home or somewhere on campus), and to bring regularly to the lab, a box, or "Duckiebox", of dimensions 30 cm &times; 30 cm &times; 60 cm. This box has to be used to contain your Duckiebot and associate materials.
 
 <!-- <p class='under-construction'>
 We are finalizing the choice of distribution.
@@ -268,6 +291,10 @@ Each student gets their own personal Duckiebot and can bring it home.
 
 
 ### Collaboration/competition with twin institutions
+
+We are going to try something for the first time in the world: teaching
+the same class at three different institutions, at the same time,
+with students interacting across continents. 
 
 This class is offered at the same time at two others institutions:
 
