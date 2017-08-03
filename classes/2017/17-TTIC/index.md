@@ -2,7 +2,7 @@
 layout: page
 title: TTIC and UChicago
 longtitle: "Self-driving Vehicles: Models and Algorithms for Autonomy"
-permalink: classes/2017/TTIC/index.html
+permalink: classes/2017/17-TTIC/index.html
 ---
 
 Welcome to the webpage for **Self-driving Vehicles: Models and Algorithms for Autonomy** (TTIC 31240), which is

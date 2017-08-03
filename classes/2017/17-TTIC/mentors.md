@@ -2,8 +2,8 @@
 layout: page
 title: Mentors wanted
 longtitle: "Mentors wanted"
-permalink: classes/2017/TTIC/mentors/index.html
-parent: classes/2017/TTIC/index.html
+permalink: classes/2017/17-TTIC/mentors/index.html
+parent: classes/2017/17-TTIC/index.html
 ---
 
 Duckietown is a project-based class. Projects

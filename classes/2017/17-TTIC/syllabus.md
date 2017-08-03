@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-permalink: classes/2017/TTIC/syllabus/index.html
+permalink: classes/2017/17-TTIC/syllabus/index.html
 ---
 
 

@@ -2,8 +2,8 @@
 layout: page
 title: Lecturers wanted
 longtitle: "Lecturers wanted"
-permalink: classes/2017/TTIC/lecturers/index.html
-parent: classes/2017/TTIC/index.html
+permalink: classes/2017/17-TTIC/lecturers/index.html
+parent: classes/2017/17-TTIC/index.html
 weight: 1000
 ---
 

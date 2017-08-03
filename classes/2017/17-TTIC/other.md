@@ -2,8 +2,8 @@
 layout: page
 title: Other positions
 longtitle: "Other positions available"
-permalink: classes/2017/TTIC/other/index.html
-parent: classes/2017/TTIC/index.html
+permalink: classes/2017/17-TTIC/other/index.html
+parent: classes/2017/17-TTIC/index.html
 ---
 
 We also have _working positions_ available  for students, for a variable number of hours, starting in August (but later start is ok as well.)

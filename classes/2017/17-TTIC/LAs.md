@@ -2,8 +2,8 @@
 layout: page
 title: TAs positions
 longtitle: Learning assisLAnts positions
-permalink: classes/2017/TTIC/LAs/index.html
-parent: classes/2017/TTIC/index.html
+permalink: classes/2017/17-TTIC/LAs/index.html
+parent: classes/2017/17-TTIC/index.html
 ---
 
 We are looking for Learning Assistants (LAs) for "Self-driving Vehicles: Models and Algorithms for Autonomy" (aka "Duckietown"). Note that we are specifically using the term "learning assistant" rather than "teaching assistant" because this role involves working with us to develop course material as well as extensive and regular interaction with students.
