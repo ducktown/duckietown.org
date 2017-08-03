@@ -108,9 +108,7 @@ h1 {
     max-width: 14em;
 }
 
-#page-content p,
-#page-content ul,
-#page-content ol {
+#page-content p, #page-content ul, #page-content ol {
     max-width: 50em;
 }
 
