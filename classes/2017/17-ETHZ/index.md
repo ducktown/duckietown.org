@@ -209,11 +209,14 @@ The projects will be group based, but the contribution of each student will be a
 These are necessary pre-requisites to take the class:
 
 * Knowledge of basics of probability theory.
+* Some programming experience (outside of Matlab or similar environment).
 * Familiarity with Linux development.
-* Familiarity with Python.
+* Familiarity with Python (or be quick to learn).
 * Access to a laptop on which you can install a particular Linux distribution
-  dedicated to the class. Virtual machines are unsupported (you will be on your own
-  to debug problems related to the configuration.)
+  dedicated to the class. Note: Virtual machines are unsupported. You will be on your own
+  to debug problems related to the configuration.
+* At least 200 GB of free disk space.
+* (Infrequent) access to an SD card reader/writer. A few times in the semester, you will be asked to burn an SD card image. 
 * Ability to store somewhere (at home or somewhere on campus), and to bring regularly to the lab, a box, or "Duckiebox", of dimensions 30 cm &times; 30 cm &times; 60 cm. This box has to be used to contain your Duckiebot and associate materials.
 
 <!-- <p class='under-construction'>
@@ -285,7 +288,7 @@ refer to this paper:
 
 ### A personal experience
 
-Each student gets their own personal Duckiebot and can bring it home.
+Each student gets their own personal Duckiebot (which they need to build from parts).
 
 <!-- On the first day, you will be given a box of parts. -->
 
@@ -294,7 +297,7 @@ Each student gets their own personal Duckiebot and can bring it home.
 
 We are going to try something for the first time in the world: teaching
 the same class at three different institutions, at the same time,
-with students interacting across continents. 
+with students interacting across continents.
 
 This class is offered at the same time at two others institutions:
 
