@@ -53,21 +53,21 @@ Office Hours: TBD in TTIC 429
 
 ## Lecture Times
 
-Mondays and Wednesdays from 9:00am--11:00am in TTIC TBD
+Mondays and Wednesdays from 9:00am--11:00am in TTIC 530
 
 Lab sessions will take place on the 4th floor of the TTIC building in the south-east corner.
 
 
 ## Course Website
 
-The official website for Duckietown is located at http://duckietown.org, and the TTIC-specific site is located at
+The official website for Duckietown is located at <http://duckietown.org>, and the TTIC-specific site is located at
 
 <http://duckietown.org/classes/2017/17-TTIC>
 
 We will use Canvas to deliver lectures, homework, solutions, and other
 material for this course. Please log into
 
-http://canvas.uchicago.edu
+<http://canvas.uchicago.edu>
 
 using your CNetID and CNet password to access the course site.
 
@@ -87,7 +87,7 @@ The page contains also pointers to Github, Slack, Dropbox, Google Docs, and ever
 
 All documents are distributed using the Creative Commons Attribution license. This license lets others distribute, remix, tweak, and build upon your work, even commercially, as long as they credit you for the original creation. This is the most accommodating of licenses offered. Recommended for maximum dissemination and use of licensed materials.
 
-**If you are a student not at TTIC**: There is enough information in the materials page to make your own robot if you are not at MIT.
+**If you are a student not at TTIC**: There is enough information in the materials page to make your own robot if you are not at TTIC.
 
 **If you are an instructor not at TTIC**: We are working for you! We want this class to be reproducible everywhere else. Please get in touch with us to give us advice about how to reach that goal and to be added to a low-frequency interest list.
 
