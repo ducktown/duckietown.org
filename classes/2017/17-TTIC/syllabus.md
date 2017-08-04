@@ -62,7 +62,7 @@ Lab sessions will take place on the 4th floor of the TTIC building in the south-
 
 The official website for Duckietown is located at http://duckietown.org, and the TTIC-specific site is located at
 
-http://duckietown.org/classes/2017/17-TTIC
+<http://duckietown.org/classes/2017/17-TTIC>
 
 We will use Canvas to deliver lectures, homework, solutions, and other
 material for this course. Please log into
