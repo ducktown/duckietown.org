@@ -5,7 +5,7 @@ permalink: classes/2017/17-TTIC/syllabus/index.html
 ---
 
 
-**Title**: TTIC 31240 Self-driving Vehicles: Models and Algorithms for Autonomy (a.k.a Duckietown)
+**Title**: TTIC 31240 Self-driving Vehicles: Models and Algorithms for Autonomy (a.k.a. Duckietown)
 
 **Instructor**: Matthew Walter
 
@@ -74,16 +74,11 @@ TTIC Room 429
 
 ## Course Website
 
-The official website for Duckietown is located at <http://duckietown.org>, and the TTIC-specific site is located at
-
+The official website for Duckietown is located at <http://duckietown.org>, and the TTIC-specific site is located at  
 <http://duckietown.org/classes/2017/17-TTIC>
 
 We will use Canvas to deliver lectures, homework, solutions, and other
-material for this course. Please log into
-
-<http://canvas.uchicago.edu>
-
-using your CNetID and CNet password to access the course site.
+material for this course. Please log into <http://canvas.uchicago.edu> using your CNetID and CNet password to access the course site.
 
 
 ## Course Structure and Grading
