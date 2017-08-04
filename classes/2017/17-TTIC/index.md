@@ -10,8 +10,10 @@ informally known as "Duckietown". This is the first time that the course is bein
 
 [Read below about what makes this a special class](#special).
 
+**We looking for people to help me and get involved in any way. Please read below [available positions](#positions)**
 
-**For TTIC and UChicago Students**:
+## For students interested in taking the class
+
 The number of spots available is extremely limited due to resource constraints (e.g., each student gets a robot). Consequently, registration is subject to instructor approval.
 
 Please read this page thoroughly and sign up *only* if you
@@ -19,32 +21,41 @@ think the class is right for you. It might help to take a
 look at the materials for the first edition of the class, available at
 [duckietown.mit.edu](http://duckietown.mit.edu).
 
-If you'd like to register for the course, you **must** first complete this [questionnaire][questionnaire], which helps us fine-tune the class to your background.
+If you'd like to register for the course, you **must** first complete this [questionnaire][questionnaire], which helps us fine-tune the class to your background. Please be verbose with the long-answer questions and include anything that might help you stand out. This class is a collaborative learning experience and I’m looking for a good mix of talents and personalities.
 
+**We invite everyone to come to the first class on Monday September 25 at 9:00am in TTIC Room 526. We decide on enrollment following the first class.**
 
+Note that there are no official prerequisites for the course and, while desirable, previous experience with robotics is not required. However, a strong background in programming is important, while at least a basic familiarity with computer vision and estimation are beneficial.
 
-## Positions available
+If you are not sure whether you would like to take the class, we would encourage you to:
+* [Have a look at the site for last year's class at MIT](/classes/2016/16-MIT/index.html)
+* [Read our paper at ICRA about the project][duckietown-icra]
+* [Read below about what makes this a special class](#special).
 
-**For TTIC and UChicago Students**: We have openings for the following positions:
+[duckietown-icra]: http://people.csail.mit.edu/lpaull/publications/Paull_ICRA_2017.pdf
 
-* [Learning assistants](LAs/)
-* [Other work positions](other/)
-
-**For TTIC and UChicago postdoctoral researchers and senior Ph.D. students**: In the inaugural class at MIT, one of the collateral uses of Duckietown was to
-provide an opportunity for postdocs to
-develop their teaching and mentoring skills. We will reproduce
-the same idea this quarter.
-
-We are looking for:
-
-* [mentors](mentors/)
-* [lecturers](lecturers/)
+**NB: You need to have your own laptop to take this course, and you need to be willing to install a fresh Ubuntu 16.04 partition on it for the duration of the class (I can help you with this)**
 
 [questionnaire]: https://goo.gl/forms/L1pQhBYMjVuxh9y32
 
+## For non-students who want to get involved {#positions}
+
+### University Professors and Postdocs in the Chicago area
+
+We are looking for excellent guest lectures to include in the class. The topic of the lectures is very flexible, but if you see something that is already [in the syllabus](syllabus/) then that's even better. Please [contact me asap][walter].
+
+Additionally, we are looking for postdocs to act as mentors in the course project phase of the class. In the MIT version we had about 15 or so of these magical postdocs helping with the class. It is not impossible that you get your name on a paper out of it! (But no promises..). Please [contact me asap][walter].
+
+### Anyone else that wants to help
+
+We have many needs from small to large. Whatever your expertise, it is likely that we can use your help. Not least of all would other students who want to act as teaching assistants (I might be able to pay you). Please [contact me asap][walter].
 
 
-## Dates and times
+## Syllabus
+
+See the official [course syllabus](syllabus/) for more detail on the class.
+
+### Dates and times
 
 Lecture times:
 
@@ -63,7 +74,7 @@ Lecture times:
 #times tbody td { padding-right: 1em; padding-top:0.2em;}
 </style>
 
-## Instructor
+### Instructor
 
 <!-- Institute of Dynamic Systems and Control. -->
 
@@ -89,12 +100,7 @@ contact [Matthew Walter][walter] if you are interested.*
 contact [Matthew Walter][walter] if you are interested.*
 
 
-## Syllabus
-
-See the [course syllabus](syllabus/) for additional details on the class.
-
-
-## Grading
+### Grading
 
 The grade is based on:
 
@@ -103,13 +109,13 @@ The grade is based on:
 * a project presentation (percentage TBD). The projects will be group-based, but the contribution of each student will be assessed individually.
 
 
-## Prerequisites
+### Prerequisites
 
 * Familiarity with the GNU/Linux development environment.
 * Access to a laptop with Ubuntu 16.04 installed.
 
 
-## Related classes at TTIC
+### Related classes at TTIC
 
 The most relevant course at TTIC is:
 
@@ -121,10 +127,10 @@ Because the content and format are different than this course, it would be most 
 [robot-learning]: http://www.ttic.edu/courses/#robo
 
 
-# What makes this a special class? {#special}
+## What makes this a special class? {#special}
 
 
-## Class philosophy
+### Class philosophy
 
 The best engineers are the ones who have solid theoretical foundations,
 as well as practical experience.
