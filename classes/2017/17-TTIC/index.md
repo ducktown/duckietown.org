@@ -49,7 +49,7 @@ We have many needs from small to large. Whatever your expertise, it is likely th
 
 # Syllabus
 
-See the official [course syllabus](syllabus/) for more detail on the class.
+See the official [course syllabus](syllabus/) for more details on the class.
 
 ## Dates and times
 

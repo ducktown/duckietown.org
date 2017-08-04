@@ -5,6 +5,12 @@ permalink: classes/2017/17-TTIC/syllabus/index.html
 ---
 
 
+**Title**: TTIC 31240 Self-driving Vehicles: Models and Algorithms for Autonomy (a.k.a Duckietown)
+
+**Instructor**: Matthew Walter
+
+**Website**: <http://duckietown.org/classes/2017/17-TTIC>
+
 
 ## Course Description
 
@@ -20,7 +26,7 @@ The course will be taught in concurrently and in conjunction with classes at the
 Two of the main challenges in creating autonomous systems are:
 
 1. **the problem of "integration"**: How to make sure that subsystems developed separately work well together. For example, how to decide on a common representation of belief?
-2. **the problem of "co-design"**: Hoow to design the subsystems together, such that performance is maximized, while (shared) resource usage is minimized. For example: given that there is a limited power budget, how do you allocate it between perception and planning?
+2. **the problem of "co-design"**: How to design the subsystems together, such that performance is maximized, while (shared) resource usage is minimized. For example: given that there is a limited power budget, how do you allocate it between perception and planning?
 
 
 
@@ -36,26 +42,34 @@ Upon completion of the course, you will have an understanding of fundamental tec
 
 * camera geometry, intrinsic/extrinsic calibration;
 * minimal sufficient representations for visual tasks;
-* nonlinear filtering, including robust localization and mapping (localize in a given map, or create your own map);
+* nonlinear filtering, including robust localization and mapping (e.g., localize in a given map, or create your own map);
 * shared control and level 2,3 autonomy;
-* complex perception pipelines: (use of) object detection (reading traffic signs) and tracking;
-* safety and correctness (navigate intersections); and
-* signaling and coordination for distributed robotics (reason about the intent of the other drivers).
+* complex perception pipelines: (use of) object detection (e.g., reading traffic signs) and tracking;
+* safety and correctness (e.g., navigate intersections); and
+* signaling and coordination for distributed robotics (e.g., reason about the intent of the other drivers).
 
 
 ## Instructor
 
-Matthew R. Walter, TTIC Room 429, &#109;&#119;&#097;&#108;&#116;&#101;&#114;&#064;&#116;&#116;&#105;&#099;&#046;&#101;&#100;&#117;,
+Matthew R. Walter
+TTIC Room 429
+&#109;&#119;&#097;&#108;&#116;&#101;&#114;&#064;&#116;&#116;&#105;&#099;&#046;&#101;&#100;&#117;
 773-834-3637
 
-Office Hours: TBD in TTIC 429
+**Office Hours**: TBD in TTIC 429
 
 
-## Lecture Times
+## Lectures
 
-Mondays and Wednesdays from 9:00am--11:00am in TTIC 530
+**Meeting Times**: Mondays and Wednesdays, 9:00am--11:00am
 
-Lab sessions will take place on the 4th floor of the TTIC building in the south-east corner.
+**Location**: TTIC 530
+
+## Labs
+
+**Meeting Times**: TBD
+
+**Location**: 4th floor of the TTIC building in the south-east corner.
 
 
 ## Course Website
@@ -82,7 +96,7 @@ TBD
 
 ## Course Documents
 
-The important documents are listed at the webpage: http://duckietown.org/docs/index.html
+The important documents are listed at the webpage: <http://duckietown.org/docs/index.html>
 The page contains also pointers to Github, Slack, Dropbox, Google Docs, and everything else we need for collaboration.
 
 All documents are distributed using the Creative Commons Attribution license. This license lets others distribute, remix, tweak, and build upon your work, even commercially, as long as they credit you for the original creation. This is the most accommodating of licenses offered. Recommended for maximum dissemination and use of licensed materials.
