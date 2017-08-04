@@ -20,7 +20,7 @@ The Duckietown platform was also used in these classes:
 
 - [ETH Zürich 2017](2017/17-ETHZ/) - Prof. Emilio Frazzoli, Dr. Andrea Censi;
 - [University of Montreal, 2017](2017/17-Montreal/) - Prof. Liam Paull;
-- [TTI/Chicago 2017](2017/17-TTIC/) - Prof. Matthew Walter;
+- [TTIC/UChicago 2017](2017/17-TTIC/) - Prof. Matthew Walter;
 
 Furthermore, the Duckietown platform was used also in these courses:
 
