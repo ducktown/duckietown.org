@@ -10,7 +10,29 @@ informally known as "Duckietown". This is the first time that the course is bein
 
 [Read below about what makes this a special class](#special).
 
-**We looking for people to help me and get involved in any way. Please read below [available positions](#positions)**
+**We looking for people to help me and get involved in any way. Please see  [available positions](#positions) below**
+
+<div class='figure-with-caption'>
+    <a href="/media/classes/duckietown-mit.jpg"><img src="/media/classes/duckietown-mit.jpg"/></a>
+    <p>Duckietown at MIT in 2016</p>
+</div>
+
+<div class='figure-with-caption'>
+    <a href="/media/classes/duckietown-taiwan.jpg">
+    <img src="/media/classes/duckietown-taiwan.jpg"/>
+    </a>
+    <p>Duckietown at NCTU in 2016</p>
+</div>
+
+<div style='clear: both;'></div>
+
+<style>
+    .figure-with-caption img { height: 15em; width: auto;}
+    .figure-with-caption {
+        padding: 1.5em;
+        display: block; float: left;
+    }
+</style>
 
 # For students interested in taking the class
 
