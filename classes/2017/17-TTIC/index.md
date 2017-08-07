@@ -10,7 +10,11 @@ informally known as "Duckietown". This is the first time that the course is bein
 
 [Read below about what makes this a special class](#special).
 
-**We looking for people to help me and get involved in any way. Please see  [available positions](#positions) below**
+**We looking for people to help me and get involved in any way. Please see  the [available positions](#positions) below.**
+
+
+<img src="/media/duckietown-nice.png" alt="Duckietown" style="height: 200px; width: 250px"/><img src="/media/classes/duckietown-mit.jpg" alt="MIT Duckietown" style="height:200px; width: 400px; border: 5px"/><img src="/media/duckiebot-side.png" alt="Duckiebot" style="height: 200px; width: 200px"/>
+
 
 # For students interested in taking the class
 
