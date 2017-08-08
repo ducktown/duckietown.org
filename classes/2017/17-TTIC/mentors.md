@@ -6,16 +6,6 @@ permalink: classes/2017/17-TTIC/mentors/index.html
 parent: classes/2017/17-TTIC/index.html
 ---
 
-Duckietown is a project-based class. Projects
-are done by groups of 4-5 students guided by a mentor.
+We are looking for postdocs, research faculty, and senior Ph.D. students to serve as mentors for group projects, which are an essential component of the Duckietown course. This year, each group will consist of around 6 students, with two students each from TTIC, ETH Zürich, and the Université de Montréal.
 
-Last year, at MIT, postdocs were employed as mentors,
-to supervise projects in their specialty area. (And possibly
-on their research.)
-
-If you are interested in this, please discuss with your
-supervisor if you can dedicate time to this, and then
-contact [Matt Walter](http://ttic.edu/walter).
-
-In special cases, this is also available to senior
-Ph.D. students.
+If you are interested in being a mentor, please contact [Matt Walter](http://ttic.edu/walter).
