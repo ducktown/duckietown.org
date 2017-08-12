@@ -5,16 +5,21 @@ longtitle: "Self-driving Vehicles: Models and Algorithms for Autonomy"
 permalink: classes/2017/17-TTIC/index.html
 ---
 
+
 Welcome to the webpage for **Self-driving Vehicles: Models and Algorithms for Autonomy** (TTIC 31240), which is
-informally known as "Duckietown". This is the first time that the course is being offered at TTIC, following    the [extremely successful first edition at MIT in 2016](http://duckietown.mit.edu).
+informally known as "Duckietown". This is the first time that the course is being offered at TTIC, following 
+the [extremely successful first edition at MIT in 2016](http://duckietown.mit.edu).
 
 [Read below about what makes this a special class](#special).
 
 **We looking for people to help me and get involved in any way. Please see  the [available positions](#positions) below.**
 
 
-<img src="/media/duckietown-nice.png" alt="Duckietown" style="height: 200px; width: 250px"/><img src="/media/classes/duckietown-mit.jpg" alt="MIT Duckietown" style="height:200px; width: 400px; border: 5px"/><img src="/media/duckiebot-side.png" alt="Duckiebot" style="height: 200px; width: 200px"/>
-
+<div>
+    <img src="/media/duckietown-nice.png" alt="Duckietown" style="height: 200px; width: 250px"/>
+    <img src="/media/classes/duckietown-mit.jpg" alt="MIT Duckietown" style="height:200px; width: 400px; border: 5px"/>
+    <img src="/media/duckiebot-side.png" alt="Duckiebot" style="height: 200px; width: 200px"/>
+</div>
 
 # For students interested in taking the class
 

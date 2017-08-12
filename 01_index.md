@@ -13,17 +13,19 @@ permalink: index.html
 
 
 **Duckietown is a robotics educations and outreach effort.**
-The project started as a graduate class in 2016 at MIT; as of 2017, six other universities have used the materials produced,
-as well as dozens of self-guided learners.
 
-The most tangible goal of the project is to provide a **low-cost
-educational "experience"** for learning autonomy, consisting of the
-"Duckiebots", an autonomous robot, and the "Duckietowns", the
-infrastructure in which the Duckiebots navigates.
+The project started as a graduate class in 2016 at MIT; as of 2017, six other
+universities have used the materials produced, as well as dozens of self-guided
+learners.
 
-In addition to the **hardware** and **software**, we build a
-set of **learning modules** that can be used at various levels
-of education.
+The most tangible goal of the project is to provide a **low-cost educational
+"experience"** for learning autonomy.
+
+Our platform consists of the "Duckiebots", simple autonomous robots, and the
+"Duckietowns", the infrastructure in which the Duckiebots navigates.
+
+In addition to the **hardware** and **software**, we build a set of **learning
+modules** that can be used at various levels of education.
 
 
 ### Current status of the project
