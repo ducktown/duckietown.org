@@ -15,6 +15,12 @@ the [extremely successful first edition at MIT in 2016](http://duckietown.mit.ed
 **We looking for people to help me and get involved in any way. Please see  the [available positions](#positions) below.**
 
 
+<div>
+    <img src="/media/duckietown-nice.png" alt="Duckietown" style="height: 200px; width: 250px"/>
+    <img src="/media/classes/duckietown-mit.jpg" alt="MIT Duckietown" style="height:200px; width: 400px; border: 5px"/>
+    <img src="/media/duckiebot-side.png" alt="Duckiebot" style="height: 200px; width: 200px"/>
+</div>
+
 # For students interested in taking the class
 
 The number of spots available is extremely limited due to resource constraints (e.g., each student gets a robot). Consequently, registration is subject to instructor approval.
