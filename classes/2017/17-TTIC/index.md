@@ -137,12 +137,11 @@ Because the content and format are different than this course, it would be most 
 
 ## Class philosophy
 
-The best engineers are the ones who have solid theoretical foundations,
+The best engineers are the ones who have solid theoretical foundations
 as well as practical experience.
 
 In autonomous robotics, it is important to also get the "feeling" of
-what actually makes a robot work. The way to do this, is not to study every component in isolation,
-but rather to integrate the components as part of a complex system.
+what actually makes a robot work. The way to do this is not to study every component in isolation, but rather to integrate the components as part of a complex system.
 
 For more information about the class philosophy, please
 refer to this paper:
@@ -169,7 +168,11 @@ Each student gets their own personal Duckiebot and can bring it home.
 This class is offered at the same time at two others institutions:
 
 - The University of Montreal, Canada, lead by Prof. Liam Paull.
-- ETH Zürich, lead by Dr. Andrea Censi.
+- ETH Zürich, lead by [Prof. Emilio Frazzoli][frazzoli], [Dr. Andrea Censi][censi], and [Dr. Jacopo Tani][tani].
+
+[frazzoli]: http://www.idsc.ethz.ch/research-frazzoli.html
+[censi]: https://censi.science/
+[tani]: https://eapsweb.mit.edu/people/jtani
 
 The three institutions will develop the autonomous fleets together, and there will be a (very friendly) competition at the end.
 
