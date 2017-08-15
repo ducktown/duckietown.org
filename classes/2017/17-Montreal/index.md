@@ -32,7 +32,7 @@ There are only 12 spots available for the class this year. If you are interested
 
 **I invite all to come to the first class Wed Sept. 6 @ 11:30 in rm. Z-210 Pavilion Claire-McNicoll. Decisions about admissions will be made following the first class**.
 
-The official admissions process will require filling out a [university application form](https://admission.umontreal.ca/admission/cycles-superieurs/demande-dadmission/) if you a student at U de M and contacting Céline Bégin if you are not. 
+The official admissions process will require filling out a [university application form](https://admission.umontreal.ca/admission/cycles-superieurs/demande-dadmission/) if you a student at U de M and contacting Céline Bégin if you are not.
 
 [form]: https://goo.gl/forms/Aqh1EY4B2AlENvLr2
 
@@ -115,7 +115,7 @@ This class is offered at the same time at two others institutions:
 [censi]: https://censi.science/
 [tani]: https://eapsweb.mit.edu/people/jtani
 
-- At the University of Chicago / Toyota Technological Institute, led by [Prof. Matthew Walter][walter].
+- At the Toyota Technological Institute at Chicago and the University of Chicago, led by [Prof. Matthew Walter][walter].
 
 [walter]: http://ttic.uchicago.edu/~mwalter/
 
