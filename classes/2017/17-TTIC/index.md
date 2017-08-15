@@ -16,9 +16,9 @@ the [extremely successful first edition at MIT in 2016](http://duckietown.mit.ed
 
 
 <div>
-    <img src="/media/duckietown-nice.png" alt="Duckietown" style="height: 200px; width: 250px"/>
+    <img src="/media/duckietown-nice.jpg" alt="Duckietown" style="height: 200px; width: 250px"/>
     <img src="/media/classes/duckietown-mit.jpg" alt="MIT Duckietown" style="height:200px; width: 400px; border: 5px"/>
-    <img src="/media/duckiebot-side.png" alt="Duckiebot" style="height: 200px; width: 200px"/>
+    <img src="/media/duckiebot-side.jpg" alt="Duckiebot" style="height: 200px; width: 200px"/>
 </div>
 
 # For students interested in taking the class
