@@ -7,7 +7,7 @@ parent: classes/2017/17-TTIC/index.html
 weight: 1000
 ---
 
-Last year, at [MIT](http://duckietown.mit.edu), one of the collateral uses of Duckietown was to provide an opportunity for postdocs to develop their
+In the inaugural class at [MIT](http://duckietown.mit.edu), one of the collateral uses of Duckietown was to provide an opportunity for postdocs to develop their
 teaching skills. We had about 10 postdocs preparing 1 or
 maximum 2 lectures on their specialty.
 

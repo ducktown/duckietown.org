@@ -5,16 +5,21 @@ longtitle: "Self-driving Vehicles: Models and Algorithms for Autonomy"
 permalink: classes/2017/17-TTIC/index.html
 ---
 
+
 Welcome to the webpage for **Self-driving Vehicles: Models and Algorithms for Autonomy** (TTIC 31240), which is
-informally known as "Duckietown". This is the first time that the course is being offered at TTIC, following    the [extremely successful first edition at MIT in 2016](http://duckietown.mit.edu).
+informally known as "Duckietown". This is the first time that the course is being offered at TTIC, following
+the [extremely successful first edition at MIT in 2016](http://duckietown.mit.edu).
 
 [Read below about what makes this a special class](#special).
 
-**We looking for people to help me and get involved in any way. Please see  the [available positions](#positions) below.**
+**We are looking for people to help with the course. Please see the [available positions](#positions) below.**
 
 
-<img src="/media/duckietown-nice.png" alt="Duckietown" style="height: 200px; width: 250px"/><img src="/media/classes/duckietown-mit.jpg" alt="MIT Duckietown" style="height:200px; width: 400px; border: 5px"/><img src="/media/duckiebot-side.png" alt="Duckiebot" style="height: 200px; width: 200px"/>
-
+<div>
+    <img src="/media/duckietown-nice.jpg" alt="Duckietown" style="height: 200px; width: 250px"/>
+    <img src="/media/classes/duckietown-mit.jpg" alt="MIT Duckietown" style="height:200px; width: 400px; border: 5px"/>
+    <img src="/media/duckiebot-side.jpg" alt="Duckiebot" style="height: 200px; width: 200px"/>
+</div>
 
 # For students interested in taking the class
 
@@ -22,9 +27,9 @@ The number of spots available is extremely limited due to resource constraints (
 
 Please read this page thoroughly and sign up *only* if you
 think the class is right for you. If you are not sure whether you would like to take the class, we would encourage you to:
-* [Have a look at the site for last year's class at MIT](/classes/2016/16-MIT/index.html)
-* [Read the ICRA paper about the project][duckietown-icra]
-* [Read below about what makes this a special class](#special).
+* [have a look at the site for last year's class at; MIT](/classes/2016/16-MIT/index.html)
+* [read the ICRA paper about the project][duckietown-icra]; and
+* [read below about what makes this a special class](#special).
 
 [duckietown-icra]: http://people.csail.mit.edu/lpaull/publications/Paull_ICRA_2017.pdf
 
@@ -32,9 +37,9 @@ If you'd like to register for the course, you **must** first complete this [ques
 
 **We invite everyone to come to the first class on Monday September 25 at 9:00am in TTIC Room 530. We will decide on enrollment following the first class.**
 
-Note that there are no official prerequisites for the course and, while desirable, previous experience with robotics is not required. However, a strong background in programming is important, while at least a basic familiarity with computer vision and estimation are beneficial.
+Note that there are no official prerequisites for the course and, while desirable, previous experience with robotics is not required. However, a strong background in programming is important, and at least a basic familiarity with computer vision and estimation are beneficial.
 
-**NB: You need to have your own laptop to take this course, and you need to be willing to install a fresh Ubuntu 16.04 partition on it for the duration of the class (I can help you with this)**
+**NB: You need to have your own laptop to take this course, and you need to be willing to install a fresh Ubuntu 16.04 partition on it for the duration of the class (we can help you with this)**
 
 [questionnaire]: https://goo.gl/forms/L1pQhBYMjVuxh9y32
 
@@ -42,13 +47,13 @@ Note that there are no official prerequisites for the course and, while desirabl
 
 ## University Professors and Postdocs in the Chicago area
 
-We are looking for excellent guest lectures to include in the class. The topic of the lectures is very flexible, but if you see something that is already [in the syllabus](syllabus/) then that's even better. Please [contact me asap][walter].
+We are looking for excellent guest lectures to include in the class. Lecture topics are flexible, but if you see something that is already [in the syllabus](syllabus/) then that's even better. Please [contact me asap][walter] if you are interested.
 
-Additionally, we are looking for postdocs to act as mentors in the course project phase of the class. In the MIT version we had about 15 or so of these magical postdocs helping with the class. It is not impossible that you get your name on a paper out of it! (But no promises..). Please [contact me asap][walter].
+Additionally, we are looking for people to act as mentors in the course project phase of the class. In the MIT version, we had about 15 or so of these magical mentors helping with the class. It is not impossible that you get your name on a paper out of it! (But no promises..). Please [contact me asap][walter].
 
-## Anyone else that wants to help
+## Anyone else who wants to help
 
-We have many needs from small to large. Whatever your expertise, it is likely that we can use your help. Not least of all would other students who want to act as teaching assistants (I might be able to pay you). Please [contact me asap][walter].
+We have many needs from small to large. Whatever your expertise, it is likely that we can use your help. Not least of all would be other students who want to act as teaching assistants. Please [contact me asap][walter].
 
 
 # Syllabus
@@ -86,7 +91,7 @@ Lecture times:
 
 - Andrea Daniele
 - Zhongtian (Falcon) Dai
-- TBD
+- Jonathan Michaux
 
 *We are looking for more [learning assistants](LAs/). Please
 contact [Matthew Walter][walter] if you are interested.*
@@ -106,7 +111,7 @@ The grade is based on:
 
 * the realization of a project (percentage TBD);
 * a project report (percentage TBD); and
-* a project presentation (percentage TBD). The projects will be group-based, but the contribution of each student will be assessed individually.
+* a project presentation (percentage TBD). The projects will be group-based, but we will assess the contribution of each student individually.
 
 
 ## Prerequisites
@@ -132,12 +137,11 @@ Because the content and format are different than this course, it would be most 
 
 ## Class philosophy
 
-The best engineers are the ones who have solid theoretical foundations,
+The best engineers are the ones who have solid theoretical foundations
 as well as practical experience.
 
 In autonomous robotics, it is important to also get the "feeling" of
-what actually makes a robot work. The way to do this, is not to study every component in isolation,
-but rather to integrate the components as part of a complex system.
+what actually makes a robot work. The way to do this is not to study every component in isolation, but rather to integrate the components as part of a complex system.
 
 For more information about the class philosophy, please
 refer to this paper:
@@ -164,7 +168,11 @@ Each student gets their own personal Duckiebot and can bring it home.
 This class is offered at the same time at two others institutions:
 
 - The University of Montreal, Canada, lead by Prof. Liam Paull.
-- ETH Zürich, lead by Dr. Andrea Censi.
+- ETH Zürich, lead by [Prof. Emilio Frazzoli][frazzoli], [Dr. Andrea Censi][censi], and [Dr. Jacopo Tani][tani].
+
+[frazzoli]: http://www.idsc.ethz.ch/research-frazzoli.html
+[censi]: https://censi.science/
+[tani]: https://eapsweb.mit.edu/people/jtani
 
 The three institutions will develop the autonomous fleets together, and there will be a (very friendly) competition at the end.
 
