@@ -91,7 +91,7 @@ Lecture times:
 
 - Andrea Daniele
 - Zhongtian (Falcon) Dai
-- TBD
+- Jonathan Michaux
 
 *We are looking for more [learning assistants](LAs/). Please
 contact [Matthew Walter][walter] if you are interested.*
