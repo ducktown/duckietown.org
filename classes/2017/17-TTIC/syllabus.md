@@ -91,8 +91,7 @@ TBD
 
 ## Course Documents
 
-The important documents are listed at the webpage: <http://duckietown.org/docs/index.html>
-The page contains also pointers to Github, Slack, Dropbox, Google Docs, and everything else we need for collaboration.
+The important documents (aka "Duckuments") are listed in the [Duckiebook](http://book.duckietown.org/master/duckiebook/index.html), which simultaneously serves as a textbook, instruction guide, and source for course logistics.
 
 All documents are distributed using the Creative Commons Attribution license. This license lets others distribute, remix, tweak, and build upon your work, even commercially, as long as they credit you for the original creation. This is the most accommodating of licenses offered. Recommended for maximum dissemination and use of licensed materials.
 
