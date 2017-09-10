@@ -83,3 +83,13 @@ Following is a list of topics discussed in the class, roughly ordered from "meta
 
 **Intended Degree Level**: Senior Undergraduates and Graduates
 
+**Grading Scheme**:
+* "Checkoffs" - 10%
+* "Exercises" - 10%
+* "Being a Good Citizen" - 20%
+* Project:
+  * Presentation - 10%
+  * Functionality/Demo - 30%
+  * Documentation:
+    * Demo instructions - 10%
+    * Theory - 10%
