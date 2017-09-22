@@ -27,7 +27,7 @@ The number of spots available is extremely limited due to resource constraints (
 
 Please read this page thoroughly and sign up *only* if you
 think the class is right for you. If you are not sure whether you would like to take the class, we would encourage you to:
-* [have a look at the site for last year's class at; MIT](/classes/2016/16-MIT/index.html)
+* [have a look at the site for last year's class at MIT](/classes/2016/16-MIT/index.html);
 * [read the ICRA paper about the project][duckietown-icra]; and
 * [read below about what makes this a special class](#special).
 
