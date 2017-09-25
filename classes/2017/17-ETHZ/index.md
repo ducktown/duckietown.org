@@ -5,6 +5,17 @@ longtitle: "Autonomous Mobility on Demand (AMOD)"
 permalink: classes/2017/17-ETHZ/index.html
 ---
 
+# Important announcement
+
+**As of Monday 25th of September, the Duckietown course has started!**
+
+- _**This site will no longer be updated until the end of the course (end of December 2017)**_
+
+Regular updates will instead be provided on the class diary pages in the [Duckiebook](http://purl.org/dth/booktitle).  
+See: [ETHZ class diary](http://purl.org/dth/ETH-journal)
+
+-----------------------
+
 Welcome to the webpage for the class **Autonomous Mobility on Demand (AMOD): from car to fleet** (catalogue number [151-0323-00L][official]), which is
 informally known as "Duckietown".
 
