@@ -11,7 +11,7 @@ permalink: classes/2017/17-ETHZ/index.html
 
 - _**This site will no longer be updated until the end of the course (end of December 2017)**_
 
-Regular updates will instead be provided on the class diary pages in the [Duckiebook](http://purl.org/dth/booktitle).  
+Regular updates will instead be provided on the class diary page in the [Duckiebook](http://purl.org/dth/booktitle).  
 See: [ETHZ class diary](http://purl.org/dth/ETH-journal)
 
 -----------------------
