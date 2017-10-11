@@ -5,6 +5,17 @@ longtitle: "Autonomous Mobility on Demand (AMOD)"
 permalink: classes/2017/17-ETHZ/index.html
 ---
 
+# Important announcement
+
+**As of Monday 25th of September, the Duckietown course has started!**
+
+- _**This site will no longer be updated until the end of the course (end of December 2017)**_
+
+Regular updates will instead be provided on the class diary page in the [Duckiebook](http://purl.org/dth/booktitle).  
+See: [ETHZ class diary](http://purl.org/dth/ETH-journal)
+
+-----------------------
+
 Welcome to the webpage for the class **Autonomous Mobility on Demand (AMOD): from car to fleet** (catalogue number [151-0323-00L][official]), which is
 informally known as "Duckietown".
 
@@ -125,8 +136,8 @@ Lecture times:
     <tr><td>day</td><td>times</td><td>room</td></tr>
     </thead>
     <tbody>
-    <tr><td>Monday</td>	<td>13-15</td>	<td>HG E 33.5</td></tr>
-    <tr><td>Wednesday</td><td>10-12</td> <td>HG D 3.3</td></tr>
+    <tr><td>Monday</td>	<td>13-15</td>	<td>HG F 26.5</td></tr>
+    <tr><td>Wednesday</td><td>10-12</td> <td>HG E 22</td></tr>
     </tbody>
 </table>
 
@@ -216,7 +227,7 @@ These are necessary pre-requisites to take the class:
   dedicated to the class. Note: Virtual machines are unsupported. You will be on your own
   to debug problems related to the configuration.
 * At least 200 GB of free disk space.
-* (Infrequent) access to an SD card reader/writer. A few times in the semester, you will be asked to burn an SD card image. 
+* (Infrequent) access to an SD card reader/writer. A few times in the semester, you will be asked to burn an SD card image.
 * Ability to store somewhere (at home or somewhere on campus), and to bring regularly to the lab, a box, or "Duckiebox", of dimensions 30 cm &times; 30 cm &times; 60 cm. This box has to be used to contain your Duckiebot and associate materials.
 
 <!-- <p class='under-construction'>

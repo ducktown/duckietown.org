@@ -4,6 +4,9 @@ title: Outreach
 permalink: outreach.html
 ---
 
+This map shows in which places there was a Duckietown class or
+a Duckietown-related initiative:
+
 <style type="text/css">
         #map {
         width: 100%;
@@ -38,6 +41,7 @@ infoWindowContent.push(['<div class="info_content">'+'<h3>Graduate' + ' Class'+ 
 infoWindowContent.push(['<div class="info_content">'+'<h3>Graduate' + ' Class'+ ' Frazzoli and Censi&apos;s graduate class at ETH Zurich'+' at '+'<a href="https://www.ethz.ch">'+'ETH Zurich'+'</a>'+'</h3>'+'</div>']);
 infoWindowContent.push(['<div class="info_content">'+'<h3>Graduate' + ' Class'+ ' Under Development'+' at '+'<a href="https://www.u-picardie.fr/">'+'University of Picardie Jules Verne'+'</a>'+'</h3>'+'</div>']);
 infoWindowContent.push(['<div class="info_content">'+'<h3>Research' + ': <a href="http://faculty.ucmerced.edu/scarpin">'+ ' Under Development'+'</a>'+' at '+'<a href="http://www.ucmerced.edu/">'+'University of California, Merced'+'</a>'+'</h3>'+'</div>']);
+infoWindowContent.push(['<div class="info_content">'+'<h3>Independent' + ' Under Development'+' at '+'<a href="https://university.innopolis.ru/en/">'+'Innopolis University'+'</a>'+'</h3>'+'</div>']);
 infoWindowContent.push(['<div class="info_content">'+'<h3>High School' + ' Class'+ ': <a href="http://www.perlatecnica.it/">'+ ' Perlatecnica'+'</a>'+' at '+'<a href="http://www.isismarcianise.gov.it/">'+'ISIS Ferraris-Buccini Marcianise'+'</a>'+'</h3>'+'<p>Class  led by Mr. Mauro D&apos;Angelo. The code for the high school class is available at <a href="https://github.com/duckietown/duckietown-hs">Duckietown HS Github page</a>.</p>'+'</div>']);
 infoWindowContent.push(['<div class="info_content">'+'<h3>High School' + ' Class'+ ': <a href="http://www.perlatecnica.it/">'+ ' Perlatecnica'+'</a>'+' at '+'ITI E.Fermi Via Merine, 5, 73100 Lecce LE'+'</h3>'+'<p>Class  led by Mr. Mauro D&apos;Angelo. The code for the high school class is available at <a href="https://github.com/duckietown/duckietown-hs">Duckietown HS Github page</a>.</p>'+'</div>']);
 infoWindowContent.push(['<div class="info_content">'+'<h3>High School' + ' Class'+ ': <a href="http://www.perlatecnica.it/">'+ ' Perlatecnica'+'</a>'+' at '+'Istituto d&apos;istruzione superiore Baronissi'+'</h3>'+'<p>Class led by Mauro D&apos;Angelo. The code for the high school class is available at <a href="https://github.com/duckietown/duckietown-hs">Duckietown HS Github page</a>.</p>'+'</div>']);
@@ -219,6 +223,12 @@ var image = {
          map: map,
          icon: image,
          title: 'University of California, Merced \nUnder Development \n(Research)'
+        }); 
+        marker = new google.maps.Marker({
+         position: new google.maps.LatLng(55.753449000,48.741222300),
+         map: map,
+         icon: image,
+         title: 'Innopolis University \nUnder Development \n(Independent)'
         }); 
         marker = new google.maps.Marker({
          position: new google.maps.LatLng(41.029723100,14.262962800),

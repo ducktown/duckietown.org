@@ -1,16 +1,22 @@
 ---
 layout: page
 title: Syllabus
-permalink: classes/2017/TTIC/syllabus/index.html
+permalink: classes/2017/17-TTIC/syllabus/index.html
 ---
 
+
+**Title**: TTIC 31240 Self-driving Vehicles: Models and Algorithms for Autonomy (a.k.a. Duckietown)
+
+**Instructor**: Matthew Walter
+
+**Website**: <http://duckietown.org/classes/2017/17-TTIC>
 
 
 ## Course Description
 
 Self-driving vehicles are poised to become one of the most pervasive and impactful applications of autonomy, and have received a great deal of attention of-late. The development of self-driving vehicles provides the opportunity to address difficult challenges that are shared throughout the robotics domain and more broadly to the fields of machine learning, computer vision, and artificial intelligence. These challenges include the co-design of hardware components and algorithms, the coupled interaction between perception and control, the optimal allocation of finite computational resources to concurrent processes, and safe multi-agent behaviors.
 
-This course considers problems in perception, navigation, and control, and their systems-level integration in the context of self-driving vehicles through an open-source curriculum for autonomy education that emphasizes hands-on experience. Integral to the course, students will collaborate to implement concepts covered in lecture on a low-cost autonomous vehicle with the goal of navigating a model town complete with roads, signage, traffic lights, obstacles, and citizens. The wheeled platform is equipped with a monocular camera and a  performs all processing onboard with a Raspberry Pi 3, and must: follow lanes while avoiding obstacles, pedestrians and other robots; localize within a global map; navigate a city; and coordinate with other robots to avoid collisions. The platform and environment are carefully designed to allow a sliding scale of difficulty in perception, inference, and control tasks, making it usable in a wide range of applications, from undergraduate-level education to research-level problems. For example, one solitary robot can successfully wander the environment using only line detection and reactive control, while successful point-to-point navigation requires recognizing street signs. In turn, sign detections can be “simulated” either by using fiducials affixed to each sign, or it can be implemented using “real” object detection. Realizing more complex behaviors, such as vision-based decentralized multi-robot coordination, poses research-level challenges, especially considering resource constraints. In this manner, the course is well suited to facilitate undergraduate and graduate-level education in autonomy.
+This course considers problems in perception, planning, and control, and their systems-level integration in the context of self-driving vehicles through an open-source curriculum for autonomy education that emphasizes hands-on experience. Integral to the course, students will collaborate to implement concepts covered in lecture on a low-cost autonomous vehicle with the goal of navigating a model town complete with roads, signage, traffic lights, obstacles, and citizens. The wheeled platform is equipped with a monocular camera and a  performs all processing onboard with a Raspberry Pi 3, and must: follow lanes while avoiding obstacles, pedestrians and other robots; localize within a global map; navigate a city; and coordinate with other robots to avoid collisions. The platform and environment are carefully designed to allow a sliding scale of difficulty in perception, inference, and control tasks, making it usable in a wide range of applications, from undergraduate-level education to research-level problems. For example, one solitary robot can successfully wander the environment using only line detection and reactive control, while successful point-to-point navigation requires recognizing street signs. In turn, sign detections can be “simulated” either by using fiducials affixed to each sign, or it can be implemented using “real” object detection. Realizing more complex behaviors, such as vision-based decentralized multi-robot coordination, poses research-level challenges, especially considering resource constraints. In this manner, the course is well suited to facilitate undergraduate and graduate-level education in autonomy.
 
 The course will be taught in concurrently and in conjunction with classes at the University of Montreal and ETH Zurich, which provides opportunities for interaction and collaboration across institutions.
 
@@ -20,7 +26,7 @@ The course will be taught in concurrently and in conjunction with classes at the
 Two of the main challenges in creating autonomous systems are:
 
 1. **the problem of "integration"**: How to make sure that subsystems developed separately work well together. For example, how to decide on a common representation of belief?
-2. **the problem of "co-design"**: Hoow to design the subsystems together, such that performance is maximized, while (shared) resource usage is minimized. For example: given that there is a limited power budget, how do you allocate it between perception and planning?
+2. **the problem of "co-design"**: How to design the subsystems together, such that performance is maximized, while (shared) resource usage is minimized. For example: given that there is a limited power budget, how do you allocate it between perception and planning?
 
 
 
@@ -36,40 +42,43 @@ Upon completion of the course, you will have an understanding of fundamental tec
 
 * camera geometry, intrinsic/extrinsic calibration;
 * minimal sufficient representations for visual tasks;
-* nonlinear filtering, including robust localization and mapping (localize in a given map, or create your own map);
+* nonlinear filtering, including robust localization and mapping (e.g., localize in a given map, or create your own map);
 * shared control and level 2,3 autonomy;
-* complex perception pipelines: (use of) object detection (reading traffic signs) and tracking;
-* safety and correctness (navigate intersections); and
-* signaling and coordination for distributed robotics (reason about the intent of the other drivers).
+* complex perception pipelines: (use of) object detection (e.g., reading traffic signs) and tracking;
+* safety and correctness (e.g., navigate intersections); and
+* signaling and coordination for distributed robotics (e.g., reason about the intent of the other drivers).
 
 
 ## Instructor
 
-Matthew R. Walter, TTIC Room 429, &#109;&#119;&#097;&#108;&#116;&#101;&#114;&#064;&#116;&#116;&#105;&#099;&#046;&#101;&#100;&#117;,
+Matthew R. Walter  
+TTIC Room 429  
+&#109;&#119;&#097;&#108;&#116;&#101;&#114;&#064;&#116;&#116;&#105;&#099;&#046;&#101;&#100;&#117;  
 773-834-3637
 
-Office Hours: TBD in TTIC 429
+**Office Hours**: TBD in TTIC 429
 
 
-## Lecture Times
+## Lectures
 
-Mondays and Wednesdays from 9:00am--11:00am in TTIC TBD
+**Meeting Times**: Mondays and Wednesdays, 9:00am--11:00am
 
-Lab sessions will take place on the 4th floor of the TTIC building in the south-east corner.
+**Location**: TTIC 530
+
+## Labs
+
+**Meeting Times**: TBD
+
+**Location**: 4th floor of the TTIC building in the south-east corner.
 
 
 ## Course Website
 
-The official website for Duckietown is located at http://duckietown.org, and the TTIC-specific site is located at
-
-http://duckietown.org/classes/2017/17-TTIC
+The official website for Duckietown is located at <http://duckietown.org>, and the TTIC-specific site is located at  
+<http://duckietown.org/classes/2017/17-TTIC>
 
 We will use Canvas to deliver lectures, homework, solutions, and other
-material for this course. Please log into
-
-http://canvas.uchicago.edu
-
-using your CNetID and CNet password to access the course site.
+material for this course. Please log into <http://canvas.uchicago.edu> using your CNetID and CNet password to access the course site.
 
 
 ## Course Structure and Grading
@@ -82,12 +91,11 @@ TBD
 
 ## Course Documents
 
-The important documents are listed at the webpage: http://duckietown.org/docs/index.html
-The page contains also pointers to Github, Slack, Dropbox, Google Docs, and everything else we need for collaboration.
+The important documents (aka "Duckuments") are listed in the [Duckiebook](http://book.duckietown.org/master/duckiebook/index.html), which simultaneously serves as a textbook, instruction guide, and source for course logistics.
 
 All documents are distributed using the Creative Commons Attribution license. This license lets others distribute, remix, tweak, and build upon your work, even commercially, as long as they credit you for the original creation. This is the most accommodating of licenses offered. Recommended for maximum dissemination and use of licensed materials.
 
-**If you are a student not at TTIC**: There is enough information in the materials page to make your own robot if you are not at MIT.
+**If you are a student not at TTIC**: There is enough information in the materials page to make your own robot if you are not at TTIC.
 
 **If you are an instructor not at TTIC**: We are working for you! We want this class to be reproducible everywhere else. Please get in touch with us to give us advice about how to reach that goal and to be added to a low-frequency interest list.
 
