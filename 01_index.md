@@ -4,13 +4,13 @@ title: Duckietown
 permalink: index.html
 ---
 
-
+<!--
 <div style='float: right; text-align: left; margin-left: 2em'>
     <iframe width="300" height="220" src="https://www.youtube.com/embed/-TwocCeJUe8" frameborder="0" allowfullscreen>
         <!-- -->
     </iframe>
 </div>
-
+ -->
 
 **Duckietown is a robotics educations and outreach effort.**
 
