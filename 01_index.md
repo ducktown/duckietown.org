@@ -14,8 +14,8 @@ permalink: index.html
 
 **Duckietown is a robotics educations and outreach effort.**
 
-The project started as a graduate class in 2016 at MIT; as of 2017, six other
-universities have used the materials produced, as well as dozens of self-guided
+The project started as a graduate class in 2016; as of 2017, about 20 other
+universities have used the materials produced, as well as hundreds of self-guided
 learners.
 
 The most tangible goal of the project is to provide a **low-cost educational
