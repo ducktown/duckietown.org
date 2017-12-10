@@ -23,5 +23,10 @@ In order to join the project, you should download the specification <a href="htt
 
 <img src='dthslogo2.jpg'  width="350"/>  
 
-Company Partner
-<img src='dthslogo.jpg' style="width:250px;height:196px;" align="right"/>
+<html>
+  <body>
+Company Partners
+<a href="http://bluenetita.business.site/">Bluenet</a>
+<img src='logo bluenet vettoriale.png' style="width:50px;" align="left"/>
+</body>
+</html>
