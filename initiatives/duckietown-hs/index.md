@@ -18,16 +18,13 @@ The DuckiebotHS has on board a Low voltage dual brush DC motor driver expansion 
 
 In order to join the project, you should download the specification <a href="https://github.com/duckietown/duckietown-hs/tree/master/Docs/Specs">here</a>, and send an email to duckietownhs@gmail.com. Yuo will be added to a slack project.
 </p>
-</body>
-</html>
-
 <img src='dthslogo2.jpg'  width="350"/>  
-
-<html>
-  <body>
-<p>Company Partners
-<a href="http://bluenetita.business.site/">Bluenet</a>
-<img src='logo bluenet vettoriale.png' style="width:50px;" align="left"/>
+<h1>Company Partners</h1>
+<p><img src='logo bluenet vettoriale.png' width:350" align="left"/>
+<a href="http://bluenetita.business.site/">Bluenet</a> is a innovative startup specialized in the design, development and production of software, smart card (firmware) and chip on paper applications. 
+Equipped with an experienced Research and Development center, BlueNet develops its solutions and integrates the relative systems collaborating with the most qualified providers of complementary technologies regarding both the system and production processes. 
 </p>
+
+
 </body>
 </html>
