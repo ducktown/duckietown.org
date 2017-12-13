@@ -20,7 +20,7 @@ In order to join the project, you should download the specification <a href="htt
 </p>
 <img src='/media/dthslogo2.jpg'  width="250"/>  
 <h1>Company Partners</h1>
-<p><img src='/media/logo-bluenet-vettoriale.png' width=350" align="left"/>
+<p><img src='/media/logo-bluenet-vettoriale.png' style="width:150px;" align="left"/>
 <a href="http://bluenetita.business.site/">Bluenet</a> is a innovative startup specialized in the design, development and production of software, smart card (firmware) and chip on paper applications. 
 Equipped with an experienced Research and Development center, BlueNet develops its solutions and integrates the relative systems collaborating with the most qualified providers of complementary technologies regarding both the system and production processes. 
 </p>
