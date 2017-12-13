@@ -27,7 +27,7 @@ The number of spots available is extremely limited due to resource constraints (
 
 Please read this page thoroughly and sign up *only* if you
 think the class is right for you. If you are not sure whether you would like to take the class, we would encourage you to:
-* [have a look at the site for last year's class at; MIT](/classes/2016/16-MIT/index.html)
+* [have a look at the site for last year's class at MIT](/classes/2016/16-MIT/index.html);
 * [read the ICRA paper about the project][duckietown-icra]; and
 * [read below about what makes this a special class](#special).
 
@@ -93,25 +93,12 @@ Lecture times:
 - Zhongtian (Falcon) Dai
 - Jonathan Michaux
 
-*We are looking for more [learning assistants](LAs/). Please
-contact [Matthew Walter][walter] if you are interested.*
+[//]: # *We are looking for more [learning assistants](LAs/). Please contact [Matthew Walter][walter] if you are interested.*
 
 **Guest lecturers**:
 
-- TBD
-- TBD
-
 *We are looking for postdocs [to give guest lectures on their specialties](lecturers/). Please
 contact [Matthew Walter][walter] if you are interested.*
-
-
-## Grading
-
-The grade is based on:
-
-* the realization of a project (percentage TBD);
-* a project report (percentage TBD); and
-* a project presentation (percentage TBD). The projects will be group-based, but we will assess the contribution of each student individually.
 
 
 ## Prerequisites

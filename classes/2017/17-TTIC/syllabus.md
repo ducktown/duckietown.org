@@ -61,33 +61,34 @@ TTIC Room 429
 
 ## Lectures
 
-**Meeting Times**: Mondays and Wednesdays, 9:00am--11:00am
+**Meeting Times**: Mondays and Wednesdays, 9:00am--10:00am
 
 **Location**: TTIC 530
 
 ## Labs
 
-**Meeting Times**: TBD
+**Meeting Times**: Mondays and Wednesdays, 10:00am--11:00am
 
-**Location**: 4th floor of the TTIC building in the south-east corner.
-
-
-## Course Website
-
-The official website for Duckietown is located at <http://duckietown.org>, and the TTIC-specific site is located at  
-<http://duckietown.org/classes/2017/17-TTIC>
-
-We will use Canvas to deliver lectures, homework, solutions, and other
-material for this course. Please log into <http://canvas.uchicago.edu> using your CNetID and CNet password to access the course site.
+**Location**: Robotics lab on the 4th floor
 
 
-## Course Structure and Grading
+## Course Syllabus
+
+We will post slides, problem sets, and checkoffs (labs) to the [Chicago branch diary](http://purl.org/dt/fall2017/schedule_TTIC).
+
+
+## Course Grading
 
 The class will assess your grasp of the material through a combination
 of problem sets, exams, and a final project. The contribution of each
 to your overall grade is as follows:
 
-TBD
+* 20%: Problem sets
+* 10%: Checkoffs
+* 20%: Participation
+* 50%: Final project (includes report and presentation). The projects will be group-based, but we will assess the contribution of each student individually.
+
+See below for more information on how the participation and final project components of the grade are determined.
 
 ## Course Documents
 
@@ -142,9 +143,7 @@ The other 30% of the project grade is assigned by the mentor. It is thus possibl
 
 
 
-
-
-## Policy on Assignments and Projects
+## Policy on Late Assignments and Collaboration
 
 Late problem sets will be penalized 10% for each day that they are
 late. Those submitted more than three days beyond their due date will
@@ -157,17 +156,13 @@ It is not acceptable to use code or solutions from outside class
 suggested as part of the problem set.
 
 You are encouraged to collaborate through study groups and to discuss
-problem sets and the project. However, you must
+problem sets and the project in person and over Slack. However, you must
 acknowledge who you worked with on each problem set. You must write up
-and implement your own problem set solutions and are not
+and implement your own solutions and are not
 allowed to duplicate efforts. The correct approach is to discuss
 solution strategies, credit your collaborator, and write your
 solutions individually. Solutions that are too similar will be
 penalized.
-
-You are welcome to work with one other member of the class on the
-final project. However, every member will be expected to contribute equally.
-
 
 <style>
 #times thead { font-weight: bold; }
