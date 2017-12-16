@@ -93,25 +93,12 @@ Lecture times:
 - Zhongtian (Falcon) Dai
 - Jonathan Michaux
 
-*We are looking for more [learning assistants](LAs/). Please
-contact [Matthew Walter][walter] if you are interested.*
+[//]: # *We are looking for more [learning assistants](LAs/). Please contact [Matthew Walter][walter] if you are interested.*
 
 **Guest lecturers**:
 
-- TBD
-- TBD
-
 *We are looking for postdocs [to give guest lectures on their specialties](lecturers/). Please
 contact [Matthew Walter][walter] if you are interested.*
-
-
-## Grading
-
-The grade is based on:
-
-* the realization of a project (percentage TBD);
-* a project report (percentage TBD); and
-* a project presentation (percentage TBD). The projects will be group-based, but we will assess the contribution of each student individually.
 
 
 ## Prerequisites

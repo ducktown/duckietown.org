@@ -4,18 +4,17 @@ title: Duckietown
 permalink: index.html
 ---
 
-
+<!--
 <div style='float: right; text-align: left; margin-left: 2em'>
     <iframe width="300" height="220" src="https://www.youtube.com/embed/-TwocCeJUe8" frameborder="0" allowfullscreen>
-        <!-- -->
     </iframe>
 </div>
-
+ -->
 
 **Duckietown is a robotics educations and outreach effort.**
 
-The project started as a graduate class in 2016 at MIT; as of 2017, six other
-universities have used the materials produced, as well as dozens of self-guided
+The project started as a graduate class in 2016; as of 2017, about 20 other
+universities have used the materials produced, as well as hundreds of self-guided
 learners.
 
 The most tangible goal of the project is to provide a **low-cost educational
@@ -39,7 +38,7 @@ many ways in which [you can help](help.html).
 <p class='more-information'>For more information, see the <a href="http://book.duckietown.org/master/duckiebook/what_is_duckietown.html#sec:what-is-duckietown">section <em>What is Duckietown?</em></a> in the Duckietown book.</p> -->
 
 <div id='logos'>
-    <img id='mit' src='media/logos/800px-MIT_logo.svg.png'/>
+    <!-- <img id='mit' src='media/logos/800px-MIT_logo.svg.png'/> -->
     <img id='eth' src='media/logos/eth_logo_kurz_pos-cropped.png'/>
     <img id='nctu' src='media/logos/1200px-NCTU_emblem.svg.png'/>
     <img id='udem' src='media/logos/1280px-Universite_de_Montreal_logo.svg.png'/>
