@@ -1219,12 +1219,14 @@ h6 .small,
 }
 h1,
 .h1,
+  margin-top: 50px;
+  margin-bottom: 50px;
 h2,
 .h2,
 h3,
 .h3 {
   margin-top: 20px;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 h1 small,
 .h1 small,

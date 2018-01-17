@@ -18,7 +18,7 @@ div.figure-with-caption p {
 }
 
  body {
-     font-family: Cambria, serif;
+     font-family: Garamond, Helvetica, Calibri, Cambria, serif;
      font-size: 18px;
  }
 
@@ -75,13 +75,15 @@ div.nav-primary > ul {
 }
 div.nav-primary ul {
     list-style-type: none;
+    text-align: center;
+    font-variant: small-caps;
     margin: 0;
     padding: 0;
    /*background-color: grey;*/
    padding-left: 1em;
 }
 div.nav-primary li {
-    padding: 2px;
+    padding: 5px;
     font-weight: bold;
     font-size: 100%;
 }
@@ -92,19 +94,19 @@ li.open {
 li.selected {
     background-color: #fde69b;
          font-weight: bold;
-         list-style: none;
+         /*list-style: none;*/
 }
 
 
 h1 {
-    font-size: 340%;
-    font-weight: bold;
+    font-size: 320%;
+    /*font-weight: bold;*/
     text-transform: uppercase;
     letter-spacing: 7px;
     font-stretch: extra-expanded;
-    font-family: Monospace, Serif, Comic sans;
+    font-family: "Monospace", "Arial Black", "Arial Bold", Gadget, sans-serif;
     color: #ffc70a;
-    text-shadow: 0px -2.5px 0 #F99B14, 0px 2.5px 0 #F99B14, 2.5px 0px 0 #F99B14, -2.5px 0px 0 #F99B14;
+    text-shadow: 0px -2px 0px  #F99B14, 2px 2px 0px #F99B14, 2px 0px 0px #F99B14, 2px 0px 0px #F99B14;
     /*text-shadow: 0px 0px 3px #d8440e, 0px 0px 3px #f15922;*/
     transform: scale(1, 1.2)
     /*text-align: center;*/
@@ -121,20 +123,18 @@ h1 {
     max-width: 50em;
 }
 
-h1, h2, h3 {
-    font-family: Monospace, Serif, Comic sans;
 }
 
 h2 {
     color: #f15922;
-     text-transform: uppercase;
-     font-size:150%;
+     font-family: Arial Black, Monospace, Comic Sans MS, Palatino, Garamond, Verdana;
+     font-size:170%;
     }
 
 h3 {
     color: #F99B14;
     font-size:150%;
-    font-family: Comic Sans MS, Palatino, Garamond, Verdana;
+    font-family: Arial Black, Monospace, Comic Sans MS, Palatino, Garamond, Verdana;
     font-style:oblique;
     font-weight: bold;
     font-variant: small-caps;
