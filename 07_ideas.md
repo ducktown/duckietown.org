@@ -1,24 +1,25 @@
 ---
 layout: default
-title: Google Summer of Code project ideas
+title: Project ideas
 permalink: ideas.html
 ---
 
-This is a list of ideas for projects that contribute to Duckietown.
+This is the list of ideas for projects that contribute to Duckietown
+for **Google Summer of Code 2018**.
 
 They are calibrated for about 12 weeks of almost-full-time (35 hours/week) work.
-
 
 ## Mentors for GSoC
 
 Mentors will be professors, postdoctoral researchers, and senior Ph.D. students at the universities in which the Duckietown development took place.
 
-The senior mentors will be:
+The senior mentors and contact persons are:
 prof. Liam Paull (University of Montréal),
 Dr. Andrea Censi (ETH Zürich),
 Dr. Jacopo Tani (ETH Zürich),
 prof. Nick Wang (National Chiao Tung University, Taiwan),
 prof. Matthew Walter (Toyota Technological Institute at Chicago, USA).
+In addition, we have 2-3 mentors at each of the above institutions.
 
 We plan to assign the students to mentors based on a combination of interest matches and time zones (so that they can easily communicate over chat).
 
@@ -34,40 +35,96 @@ We use the following tags to discuss the projects:
 * <span class="PHYP"/>: For these projects, it is essential to work with a physical Duckiebot, and it is necessary to have some space to build a Duckietown or portions thereof.
 * <span class="EDU"/>: These projects are tailored to improving the educational contribution.
 
-## Idea Group: Performance optimization
+## Projects about performance optimization
 
-Performance optimization projects are relatively easy. You have some functionality already implemented and you need to make it more efficient. Easy!
+Performance optimization projects are relatively easy. You have some functionality already implemented. You need to make it more efficient, while the unit tests continue to pass. Easy!
 
-### Improving the line detection optimization
+<div class='idea' markdown='1'>
+
+### Improving the performance of the line detection
+
+Motivation:
+
+<span class="bronze"/>
+
+<span class="silver"/>
+
+<span class="gold"/>
 
 <span class="SW"/>
 
+</div>
+
+## Projects to implement new functionality or behaviors
+
+
+
+
+## Projects on the User Interface
+
+<div class='idea' markdown='1'>
+
+### Increasing user-friendliness of operations
+
+Motivation: Currently one interacts with robot only using the command line interface.
+It would be great if it was easier to interact with the robot, such as starting and stopping, and activating the various behaviors through a graphical interface.
+
+<span class="bronze"/>
+
+<span class="silver"/>
+
+<span class="gold"/>
+
+
+<span class="SW"/>
+<span class="PHY"/>
+
+</div>
+
+
+<div class='idea' markdown='1'>
+
+### Building monitoring platform for teachers
+
+Motivation: Imagine  a class with 20 people and 20 robots: how can the teacher know that everything is ready for the next experience?
+
+<span class="bronze"/>
+
+<span class="silver"/>
+
+<span class="gold"/>
+
+
 <span class="SWP"/>
+<span class="EDU"/>
 
-### Improving
-(TODO)
+</div>
 
-### Developer tools
 
-(TODO)
+<div class='idea' markdown='1'>
 
-## Idea Group: New functionality
+### Scratch interface
 
-### Increasing robustness
+Motivation:
 
-(TODO)
+<span class="bronze"/>
 
-* Make everything work on a different robot.
+<span class="silver"/>
 
-## Idea Group: UI
+<span class="gold"/>
 
-### Increasing user-friendliness
 
-* Make it easier to interact with the robot, such as starting and stopping, and activating the various behaviors through a graphical interface.
-* **Building monitoring platform for teachers**. There is a class with 20 people and 20 robots: how can the teacher know that everything is ready for the next experience?
-* Scratch interface.
+<span class="SW"/>
+<span class="EDU"/>
+<span class="PHY"/>
+
+</div>
+
+
 
 ## Idea Group: Infrastracture
+
+<div class='idea' markdown='1'>
 
 ### Improving backend
 
@@ -77,13 +134,23 @@ The Duckietown project relies on several backend tools for cloud-based integrati
 * Improving the regression tests.
 
 
+<span class="bronze"/>
+
+<span class="silver"/>
+
+<span class="gold"/>
+
+
+<span class="SWP"/>
+
+</div>
 
 <style>
 .SW, .SWP,
-.AI, .AP, .EDU,
+.AI, .AIP, .EDU,
 .PHY, .PHYP {
     display: block:
-    
+
 border:solid 1px red;
     color: white;
     font-size: smaller;
@@ -110,18 +177,40 @@ border:solid 1px red;
 .PHYP::before { content: "physical++"; }
 .EDU::before { content: "educational"; }
 
+.silver::before {content: "Silver-level achievement: "}
+.gold::before {content: "Gold-level achievement: "}
+.bronze::before {content: "Bronze-level achievement: "}
+.silver { background-color: grey; margin-left: 2em; }
+.gold { background-color: gold; margin-left: 2em;}
+.bronze { background-color: brown;margin-left: 2em; }
+
+div.idea {
+
+    box-shadow:2px 2px 5px #000000;
+border-radius: 15px;
+    margin: 1em;
+    padding: 0.5em;
+}
+div.idea h3 {
+    text-align: center;
+    margin-top: 0;
+}
+h2 { font-family: arial; }
+h3 { font-family: arial; font-weight: bold; color: black;}
 </style>
 
+## FAQ from students
+
+**Can we get assigned to a specific mentor/institution?**
+
+To facilitate communication, we will match students to the institutions in the same time zone.
+
+
+
 <span class="SW"/>
-
 <span class="SWP"/>
-
 <span class="AI"/>
-
 <span class="AIP"/>
-
 <span class="EDU"/>
-
 <span class="PHY"/>
-
 <span class="PHYP"/>
