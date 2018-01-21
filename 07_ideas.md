@@ -57,8 +57,52 @@ Motivation:
 
 ## Projects to implement new functionality or behaviors
 
+<div class='idea' markdown='1'>
+
+### When Duckiebot meets RobotX Challenge
+
+RobotX challenge 
+
+<span class="bronze"/>
+
+<span class="silver"/>
+
+<span class="gold"/>
+
+<span class="SWP"/>
+
+</div>
 
 
+<div class='idea' markdown='1'>
+
+### Duckiebots Taking on Driving Tests
+
+RobotX challenge 
+
+<span class="bronze"/>
+
+<span class="silver"/>
+
+<span class="gold"/>
+
+<span class="SWP"/>
+
+</div>
+
+<div class='idea' markdown='1'>
+
+### Multi-Duckiebot Patrolling 
+
+<span class="bronze"/>
+
+<span class="silver"/>
+
+<span class="gold"/>
+
+<span class="SWP"/>
+
+</div>
 
 ## Projects on the User Interface
 
