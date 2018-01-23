@@ -73,9 +73,100 @@ Motivation:
 </div>
 
 ## Projects to implement new functionality or behaviors
+<div class='idea' markdown='1'>
 
+### When Duckiebot meets RobotX Challenge
+  <div class="row-fluid">
+    <div class="col-sm-6">
+        <div class="embed-responsive embed-responsive-16by9">
+		<iframe src="https://player.vimeo.com/video/252327801" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+        </div>
+    </div>
 
+    <div class="col-sm-6">
+	
+	RobotX challenge is the competition for autonomous surface and underwater vehicles initiated by the Office of Naval Research (ONR) and ran by the Association of Unmanned Vehicle System International (AUVSI). The next competition will be in Hawaii in Dec 2018. Can we use Duckietown to train students to get ready for RobotX? We aim to design RobotX-like scenarios for a Duckiebot to accomplish!
+	
+    </div>
+  </div>
+  <div class="clearfix"></div>
 
+<span class="bronze"/>
+
+<span class="silver"/>
+
+<span class="gold"/>
+
+<span class="SWP"/>
+<span class="AIP"/>
+<span class="PHYP"/>
+<span class="EDU"/>
+
+</div>
+
+<div class='idea' markdown='1'>
+
+### Duckiebots Taking on Driving Tests
+
+  <div class="row-fluid">
+    <div class="col-sm-6">
+        <div class="embed-responsive embed-responsive-16by9">
+		<iframe src="https://player.vimeo.com/video/252327724" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+        </div>
+    </div>
+
+    <div class="col-sm-6">
+	
+	Human novice drivers need to pass the driving road tests in order to get a license. Can a self-driving vehicle achieve the same tasks? We will use a 1/16 sized testing environment including various tasks, such as parking, S-shaped curved road, stop sign, ramp, and etc. Such environments allow us to examine the level of autonomy and robustness of a self- driving vehicle. 
+
+	
+    </div>
+  </div>
+  <div class="clearfix"></div>
+
+<span class="bronze"/>
+
+<span class="silver"/>
+
+<span class="gold"/>
+
+<span class="SWP"/>
+<span class="AIP"/>
+<span class="EDU"/>
+
+</div>
+
+<div class='idea' markdown='1'>
+
+### Multi-Duckiebot Patrolling 
+
+  <div class="row-fluid">
+    <div class="col-sm-6">
+        <div class="embed-responsive embed-responsive-16by9">
+		<iframe src="https://player.vimeo.com/video/252327791" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+        </div>
+    </div>
+
+    <div class="col-sm-6">
+	
+	It is known that multi-robot experiments are typically performed in simulation or with limited amount of real robots. Nevertheless, in real world the location of each robot may be uncertain, and each of them may encounter unexpected delays, making the patrolling problem challenging. We wish to use a fleet of Duckiebots to work together and achieve a goal autonomously in semi-structured environments. 
+	
+    </div>
+  </div>
+  <div class="clearfix"></div>
+
+<span class="bronze"/>
+
+<span class="silver"/>
+
+<span class="gold"/>
+
+<span class="SWP"/>
+<span class="AIP"/>
+<span class="PHYP"/>
+<span class="EDU"/>
+
+</div>
 
 ## Projects on the User Interface
 
@@ -122,7 +213,21 @@ Motivation: Imagine  a class with 20 people and 20 robots: how can the teacher k
 
 ### Scratch interface
 
-Motivation:
+
+  <div class="row-fluid">
+    <div class="col-sm-6">
+        <div class="embed-responsive embed-responsive-16by9">
+        <iframe src="https://player.vimeo.com/video/252327825" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+	</div>
+    </div>
+
+    <div class="col-sm-6">
+	
+Motivation: To make a Duckiebot the first robot for all kids around the world, the interface can't be too hard to learn. Currently we can only interact with robots through command line interfaces, and it requires a level of coding skills. We hope to build a Scratch interface for beginners of programming language and robotics. We also wish that such interfaces will make robots accessible and easy-to-learn for everyone, all ages and all backgrounds.
+	
+    </div>
+  </div>
+  <div class="clearfix"></div>
 
 <span class="bronze"/>
 
@@ -219,6 +324,9 @@ div.idea p {
 }
 h2 { font-family: arial; }
 h3 { font-family: arial; font-weight: bold; color: black;}
+
+
+
 </style>
 
 
