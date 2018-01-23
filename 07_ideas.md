@@ -23,6 +23,14 @@ In addition, we have 2-3 mentors at each of the above institutions.
 
 We plan to assign the students to mentors based on a combination of interest matches and time zones (so that they can easily communicate over chat).
 
+## Onboarding and communication
+
+We use a Slack site as the main communication platform.
+
+We will onboard you *after* the proposals have been accepted, to reduce the noise on the channels.
+
+
+
 ## Description of pre-requisites and skills
 
 We use the following tags to discuss the projects:
@@ -34,6 +42,15 @@ We use the following tags to discuss the projects:
 * <span class="PHY"/>: For these projects, it is essential to work with a physical Duckiebot.
 * <span class="PHYP"/>: For these projects, it is essential to work with a physical Duckiebot, and it is necessary to have some space to build a Duckietown or portions thereof.
 * <span class="EDU"/>: These projects are tailored to improving the educational contribution.
+
+
+## FAQ from students
+
+**Can we get assigned to a specific mentor/institution?**
+
+To facilitate communication, we will match students to the institutions in the same time zone.
+
+
 
 ## Projects about performance optimization
 
@@ -190,21 +207,19 @@ div.idea {
 border-radius: 15px;
     margin: 1em;
     padding: 0.5em;
+    display: block;
+    max-width: 60em;
 }
 div.idea h3 {
     text-align: center;
     margin-top: 0;
 }
+div.idea p {
+    width: 100%;
+}
 h2 { font-family: arial; }
 h3 { font-family: arial; font-weight: bold; color: black;}
 </style>
-
-## FAQ from students
-
-**Can we get assigned to a specific mentor/institution?**
-
-To facilitate communication, we will match students to the institutions in the same time zone.
-
 
 
 <span class="SW"/>
