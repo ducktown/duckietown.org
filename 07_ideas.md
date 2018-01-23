@@ -56,12 +56,23 @@ Motivation:
 </div>
 
 ## Projects to implement new functionality or behaviors
-
 <div class='idea' markdown='1'>
 
 ### When Duckiebot meets RobotX Challenge
+  <div class="row-fluid">
+    <div class="col-sm-6">
+        <div class="embed-responsive embed-responsive-16by9">
+            <iframe src="https://player.vimeo.com/video/152233002" class="embed-responsive-item" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+        </div>
+    </div>
 
-RobotX challenge is the competition for autonomous surface and underwater vehicles initiated by the Office of Naval Research (ONR) and ran by the Association of Unmanned Vehicle System International (AUVSI). The next competition will be in Hawaii in Dec 2018. Can we use Duckietown to train students to get ready for RobotX? We aim to design RobotX-like scenarios for a Duckiebot to accomplish!
+    <div class="col-sm-6">
+	
+	RobotX challenge is the competition for autonomous surface and underwater vehicles initiated by the Office of Naval Research (ONR) and ran by the Association of Unmanned Vehicle System International (AUVSI). The next competition will be in Hawaii in Dec 2018. Can we use Duckietown to train students to get ready for RobotX? We aim to design RobotX-like scenarios for a Duckiebot to accomplish!
+	
+    </div>
+  </div>
+  <div class="clearfix"></div>
 
 <span class="bronze"/>
 
@@ -70,21 +81,31 @@ RobotX challenge is the competition for autonomous surface and underwater vehicl
 <span class="gold"/>
 
 <span class="SWP"/>
-
 <span class="AIP"/>
-
 <span class="PHYP"/>
-
 <span class="EDU"/>
 
 </div>
-
 
 <div class='idea' markdown='1'>
 
 ### Duckiebots Taking on Driving Tests
 
-Human novice drivers need to pass the driving road tests in order to get a license. Can a self-driving vehicle achieve the same tasks? We will use a 1/16 sized testing environment including various tasks, such as parking, S-shaped curved road, stop sign, ramp, and etc. Such environments allow us to examine the level of autonomy and robustness of a self- driving vehicle. 
+  <div class="row-fluid">
+    <div class="col-sm-6">
+        <div class="embed-responsive embed-responsive-16by9">
+            <iframe src="https://player.vimeo.com/video/152233002" class="embed-responsive-item" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+        </div>
+    </div>
+
+    <div class="col-sm-6">
+	
+	Human novice drivers need to pass the driving road tests in order to get a license. Can a self-driving vehicle achieve the same tasks? We will use a 1/16 sized testing environment including various tasks, such as parking, S-shaped curved road, stop sign, ramp, and etc. Such environments allow us to examine the level of autonomy and robustness of a self- driving vehicle. 
+
+	
+    </div>
+  </div>
+  <div class="clearfix"></div>
 
 <span class="bronze"/>
 
@@ -93,11 +114,8 @@ Human novice drivers need to pass the driving road tests in order to get a licen
 <span class="gold"/>
 
 <span class="SWP"/>
-
 <span class="AIP"/>
-
 <span class="PHYP"/>
-
 <span class="EDU"/>
 
 </div>
@@ -106,7 +124,20 @@ Human novice drivers need to pass the driving road tests in order to get a licen
 
 ### Multi-Duckiebot Patrolling 
 
-It is known that multi-robot experiments are typically performed in simulation or with limited amount of real robots. Nevertheless, in real world the location of each robot may be uncertain, and each of them may encounter unexpected delays, making the patrolling problem challenging. We wish to use a fleet of Duckiebots to work together and achieve a goal autonomously in semi-structured environments. 
+  <div class="row-fluid">
+    <div class="col-sm-6">
+        <div class="embed-responsive embed-responsive-16by9">
+            <iframe src="https://player.vimeo.com/video/152233002" class="embed-responsive-item" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+        </div>
+    </div>
+
+    <div class="col-sm-6">
+	
+	It is known that multi-robot experiments are typically performed in simulation or with limited amount of real robots. Nevertheless, in real world the location of each robot may be uncertain, and each of them may encounter unexpected delays, making the patrolling problem challenging. We wish to use a fleet of Duckiebots to work together and achieve a goal autonomously in semi-structured environments. 
+	
+    </div>
+  </div>
+  <div class="clearfix"></div>
 
 <span class="bronze"/>
 
@@ -115,11 +146,8 @@ It is known that multi-robot experiments are typically performed in simulation o
 <span class="gold"/>
 
 <span class="SWP"/>
-
 <span class="AIP"/>
-
 <span class="PHYP"/>
-
 <span class="EDU"/>
 
 </div>
@@ -261,6 +289,9 @@ div.idea h3 {
 }
 h2 { font-family: arial; }
 h3 { font-family: arial; font-weight: bold; color: black;}
+
+
+
 </style>
 
 ## FAQ from students
