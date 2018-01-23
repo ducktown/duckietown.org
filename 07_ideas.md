@@ -62,7 +62,7 @@ Motivation:
   <div class="row-fluid">
     <div class="col-sm-6">
         <div class="embed-responsive embed-responsive-16by9">
-            <iframe src="https://player.vimeo.com/video/152233002" class="embed-responsive-item" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<iframe src="https://player.vimeo.com/video/252327801" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
         </div>
     </div>
 
@@ -94,7 +94,7 @@ Motivation:
   <div class="row-fluid">
     <div class="col-sm-6">
         <div class="embed-responsive embed-responsive-16by9">
-            <iframe src="https://player.vimeo.com/video/152233002" class="embed-responsive-item" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<iframe src="https://player.vimeo.com/video/252327724" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
         </div>
     </div>
 
@@ -115,7 +115,6 @@ Motivation:
 
 <span class="SWP"/>
 <span class="AIP"/>
-<span class="PHYP"/>
 <span class="EDU"/>
 
 </div>
@@ -127,7 +126,7 @@ Motivation:
   <div class="row-fluid">
     <div class="col-sm-6">
         <div class="embed-responsive embed-responsive-16by9">
-            <iframe src="https://player.vimeo.com/video/152233002" class="embed-responsive-item" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<iframe src="https://player.vimeo.com/video/252327791" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
         </div>
     </div>
 
@@ -197,7 +196,21 @@ Motivation: Imagine  a class with 20 people and 20 robots: how can the teacher k
 
 ### Scratch interface
 
+
+  <div class="row-fluid">
+    <div class="col-sm-6">
+        <div class="embed-responsive embed-responsive-16by9">
+        <iframe src="https://player.vimeo.com/video/252327825" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+	</div>
+    </div>
+
+    <div class="col-sm-6">
+	
 Motivation: To make a Duckiebot the first robot for all kids around the world, the interface can't be too hard to learn. Currently we can only interact with robots through command line interfaces, and it requires a level of coding skills. We hope to build a Scratch interface for beginners of programming language and robotics. We also wish that such interfaces will make robots accessible and easy-to-learn for everyone, all ages and all backgrounds.
+	
+    </div>
+  </div>
+  <div class="clearfix"></div>
 
 <span class="bronze"/>
 
