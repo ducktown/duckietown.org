@@ -197,7 +197,7 @@ Motivation: Imagine  a class with 20 people and 20 robots: how can the teacher k
 
 ### Scratch interface
 
-Motivation:
+Motivation: To make a Duckiebot the first robot for all kids around the world, the interface can't be too hard to learn. Currently we can only interact with robots through command line interfaces, and it requires a level of coding skills. We hope to build a Scratch interface for beginners of programming language and robotics. We also wish that such interfaces will make robots accessible and easy-to-learn for everyone, all ages and all backgrounds.
 
 <span class="bronze"/>
 
