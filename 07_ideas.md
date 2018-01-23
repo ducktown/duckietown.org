@@ -71,6 +71,12 @@ RobotX challenge is the competition for autonomous surface and underwater vehicl
 
 <span class="SWP"/>
 
+<span class="AIP"/>
+
+<span class="PHYP"/>
+
+<span class="EDU"/>
+
 </div>
 
 
@@ -88,6 +94,12 @@ Human novice drivers need to pass the driving road tests in order to get a licen
 
 <span class="SWP"/>
 
+<span class="AIP"/>
+
+<span class="PHYP"/>
+
+<span class="EDU"/>
+
 </div>
 
 <div class='idea' markdown='1'>
@@ -103,6 +115,12 @@ It is known that multi-robot experiments are typically performed in simulation o
 <span class="gold"/>
 
 <span class="SWP"/>
+
+<span class="AIP"/>
+
+<span class="PHYP"/>
+
+<span class="EDU"/>
 
 </div>
 
