@@ -1,0 +1,64 @@
+---
+layout: page
+title: Master's theses
+longtitle: Master's theses related to Duckietown
+permalink: classes/2017/17-ETHZ/masters/index.html
+parent: classes/2017/17-ETHZ/index.html
+---
+<style>
+h4 {
+    /*display: block; font-weight: bold;*/
+    /*float: left;
+    clear: left;*/
+    display:table-cell;
+    /*color: red;*/
+    font-weight: bold;
+}
+</style>
+
+This page lists the Master theses available related to
+Duckietown. These Master's theses are to be performed at the
+[Institute for Dynamic Systems and Control][idsc] under the
+direction of Prof. [Emilio Frazzoli] and [Andrea Censi];
+for the "interdisciplinary" theses, collaboration with other
+labs is encouraged.
+
+<p class='under-construction'>
+Note: This page is under construction and only
+a few of the Master's theses are described in detail.
+Please check back by mid July to read the complete list.
+</p>
+
+
+These are the Master's theses available:
+
+1. [**Design of a worldwide low-cost robotics education experience**](#design-low-cost) -
+  an interdisciplinary, entrepreneurial thesis.
+7. [**Scalable architectures for autonomy: from Duckiebot to a self-driving taxi**](#scalable).
+2. **Optimal co-design of resource-constrained robots** - developed either as an interdisciplinary thesis in mechanical engineering/robotics, or as a theoretical thesis in applied mathematics.
+3. **Vision-based SLAM under resource constraints** - a robotics robotics/vision thesis, can be developed more on the *algorithmic* side (focus on the implementation) or the _theoretical_ side (focus on models and theoretical prediction).
+5. **Learning the rules of the road** - an algorithmic machine learning-focused thesis.
+6. **Planning to learn and learning to plan**  - an algorithmic, with elements of machine learning-focused and robot planning and control
+4. **Fleet coordination and management**: various topics available.
+
+## Thesis: "Scalable architectures for autonomy: from Duckiebot to a self-driving taxi" {#scalable}
+
+#### Motivation
+
+Robots come in all shapes and sizes. And for each one, the software is created
+ad hoc. The software created for a robot cannot automatically be made to run on
+another different robot, even if the sensors, the dynamics, and the task  are
+similar, because it depends on a set of **implicit** assumptions about the
+resources available, the precision of the sensor, the noise in the process, and
+so on.
+
+Is it possible to create a scalable architecture that works on a wide range of
+platforms? For example, can we create an "autopilot" that can drive the humble
+$150 Duckiebot, a professional $10,000 go-cart, and a full-sized self-driving
+car?
+
+
+
+[idsc]: http://www.idsc.ethz.ch/
+[Emilio Frazzoli]: http://www.idsc.ethz.ch/the-institute/people/person-detail.html?persid=224034
+[Andrea Censi]: https://censi.science/

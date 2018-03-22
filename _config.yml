@@ -1,0 +1,8 @@
+github_username: Duckietown China
+incremental: true
+exclude:
+  - _site
+  - "*.head"
+description: |
+    来自麻省理工学院的小黄鸭无人车
+    Duckietown is an international robotics education and outreach effort.

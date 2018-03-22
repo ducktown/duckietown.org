@@ -1,0 +1,13 @@
+---
+layout: page
+title: Media coverage
+permalink: media.html
+---
+
+<style>
+h2#media-coverage {
+display: none;
+}
+</style>
+
+This is some of the media coverage that we had:

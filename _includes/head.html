@@ -1,0 +1,29 @@
+<head>
+    <!-- base: {{base}}
+        depth: {{depth}}
+        page.url {{page.url}}
+         page.url split {{ page.url  | split: '/' | size  }}
+-->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google-site-verification" content="JtEkVR2TrLbne9-4YPHmzIqCeagG15FhWCnw1PUis-Q" />
+  <meta name="google-site-verification" content="4B4Dkj6qOxdzCqDCdzUVYRfpj8V3qysUgF7czMXANOw" />
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <link rel="shortcut icon" href="{{base}}/media/favicon.ico">
+
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
+ <!-- Bootstrap Core CSS -->
+ <link rel="stylesheet" href="{{ "{{base}}/css/bootstrap.css"  }}">
+ <!-- onasfari :-) -->
+ <link rel="stylesheet" href="{{ "{{base}}/css/arii_media.css" }}">
+ <link rel="stylesheet" href="{{ "{{base}}/css/main.css" }}">
+
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{base}}/feed.xml" />
+
+  <script src="{{base}}/js/jquery.min.js"></script>
+
+    <!-- <link href='https://fonts.googleapis.com/css?family=Lobster+Two' rel='stylesheet' type='text/css'> -->
+</head>
