@@ -15,7 +15,7 @@ permalink: index.html
 **Duckietown is a robotics educations and outreach effort.**  
 
 
-鸭子小镇（Duckietown）项目起源于2016年的MIT研究生课程; 截至2017年，全球约有20所大学已经使用了此课程材料以及另有数百名自学者独立研读了此课程。
+鸭子小镇（Duckietown）项目源于2016年的MIT研究生课程; 截至2017年，全球约有20所大学已经使用了此课程材料以及另有数百名自学者独立研读了此课程。
 
 该课程最主要的目标是为 **自主系统** 的学习者提供一种 **低成本** **体验式** 的教育手段。
 
@@ -59,7 +59,7 @@ img#ttic { height: 5em; }
 
 </style>
 
-### 中国合作伙伴 
+### 中国合作伙伴
 2018年4月开始我们将在山东省烟台市开设全球首个面向中小学生的Duckietown课程，由笛卡尔科技和山东非凡智能科技有限公司共同教授。
 
 并将在该课程中融合Scratch编程、Python编程、开源硬件设计、3D打印等系列内容。
@@ -94,9 +94,9 @@ img#ttic { height: 5em; }
 ROS Summer School  
 [RelayZhang](https://blog.csdn.net/zhangrelay" ")  
 古月居       
- 
- 
- 
+
+
+
 
 
 ### 新闻
@@ -116,4 +116,4 @@ ROS Summer School
 
 <style>
 #news li p { display: inline; }
-</style> 
+</style>

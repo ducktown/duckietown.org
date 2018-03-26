@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 主动学习
+title: 高中课程
 permalink: initiatives/index.html
 ---
 
