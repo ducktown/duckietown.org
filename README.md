@@ -27,9 +27,9 @@ jekyll build
 jekyll serve
 ~~~
 
-
+## 其他方式
 ## Prerequiement to gem install bundler
-You first need to uninstall the ruby installed by Ubuntu with something like 
+You first need to uninstall the ruby installed by Ubuntu with something like
 ~~~
 sudo apt-get remove ruby.
 ~~~
@@ -100,15 +100,3 @@ gem 'rails', '4.1.0'
 ...
 
 修改你的 Gemfile 将 http://rubygems.org 改为 https://gems.ruby-china.org/
-
-
-
-
-
-
-
-
-
-
-
-
