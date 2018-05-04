@@ -60,14 +60,14 @@ img#ttic { height: 5em; }
 </style>
 
 ### 中国合作伙伴
-2018年4月开始我们将在山东省烟台市开设全球首个面向中小学生的Duckietown课程，由笛卡尔科技和山东非凡智能科技有限公司共同教授。
+2018年4月开始我们将在中国开设全球首个面向中小学生的Duckietown课程。
 
 并将在该课程中融合Scratch编程、Python编程、开源硬件设计、3D打印等系列内容。
 
 
 <div id='company'>
     <img id='steam' src='media/china/steam.jpg'/>
-    <img id='feifan' src='media/logos/feifan.png'/>
+    #<img id='feifan' src='media/logos/feifan.png'/>
 </div>
 <style>
 #company img {  width: auto; margin-right: 1em;}
